@@ -1,0 +1,15 @@
+{
+  "name": "smzdm-youhui-spider",
+  "version": "1.0.0",
+  "description": "爬数据\r     网站\r 1. 去别人的网站 html\r 2. 分析",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
