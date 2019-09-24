@@ -1,0 +1,26 @@
+{
+  "name": "ydy-cli",
+  "version": "1.0.0",
+  "description": "手写一个 vue-cli\r - npm install -g vue-cli安装？ 发布到npm 应用市场\r - vue init webpack",
+  "main": "index.js",
+  "bin": {
+    "ydy-cli": "./bin/www"
+  },
+  "scripts": {
+    "compile": "babel src -d dist",
+    "watch": "npm run compile -- --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "commander": "^3.0.1",
+    "download-git-repo": "^2.0.0",
+    "inquirer": "^7.0.0",
+    "ora": "^4.0.1"
+  }
+}
