@@ -1,0 +1,10 @@
+<% include('header') %>
+  VIEW
+  <!-- 转义输出 -->
+  <p><%= userName %></p>
+  <p><%= sex %></p>
+  <!-- 当js -->
+  <% hobby.forEach(element => { %>
+    <li><%= element %></li>
+  <% }); %>
+<% include('foot') %>

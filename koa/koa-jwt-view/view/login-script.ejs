@@ -1,0 +1,19 @@
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script>
+  const form = document.forms['loginForm'];
+    form.addEventListener('submit', function (event) {
+      event.preventDefault();
+      const name = form['userName'].value;
+      const pwd = form['pwd'].value;
+      axios.post('/login', {
+        name,
+        pwd
+      })
+        .then(res => {
+          if (res.data.code === 200) {
+            const token = rea.data.token
+            localStorage.setItem('token', token)
+          }
+        })
+    })
+</script>
