@@ -17,11 +17,11 @@ router.get('/all', async(ctx, next) => {
     ctx.body = res
   })
 })
-
-router.get('/userRegister', async(ctx, next) => {
-  var _username = ctx.request.body.username
-  var _userpwd = ctx.request.body.userpwd
-  var _nickname = ctx.request.body.nickname
+// 注册
+router.post('/userRegister', async(ctx, next) => {
+  var _username = ctx.request.body.username;
+  var _userpwd = ctx.request.body.userpwd;
+  var _nickname = ctx.request.body.nickname;
   if (!_username && !_userpwd && !_nickname) {
     ctx.body = {
       code: '800001',
@@ -35,7 +35,7 @@ router.get('/userRegister', async(ctx, next) => {
     nickname: _nickname
   }
   await userService.findUser(user.username).then(async (res) => {
-    if (res.lenght) {
+    if (res.length) {
       try {
         throw Error("用户名已存在")
       } catch (error) {
@@ -65,6 +65,40 @@ router.get('/userRegister', async(ctx, next) => {
           }
         }
       })
+    }
+  })
+})
+// 登录
+router.post('/userLogin', async(ctx, next) => {
+  var _username = ctx.request.body.username
+  var _userpwd = ctx.request.body.userpwd
+
+  await userService.userLogin(_username, _userpwd).then((res) => {
+    let r = ''
+    if (res.length) {
+      r = 'ok'
+      let result = {
+        id: res[0].id,
+        nickname: res[0].nickname,
+        username: res[0].username
+      }
+      ctx.body = {
+        code: '800000',
+        data: result,
+        mess: '登陆成功'
+      }
+    } else {
+      r = 'error'
+      ctx.body = {
+        code: '800001',
+        data: r,
+        mess: '账号或密码错误'
+      }
+    }
+  }).catch((err) => {
+    ctx.body = {
+      code: '800002',
+      data: err
     }
   })
 })
