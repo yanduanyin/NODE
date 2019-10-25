@@ -44,7 +44,7 @@ let insertUser = function(value) {
 }
 // 查找用户
 let findUser = function(username) {
-  let _sql = `select *from users where username=${username}`
+  let _sql = `select *from users where username="${username}";`
   return allServies.query(_sql)
 }
 // 用户登录

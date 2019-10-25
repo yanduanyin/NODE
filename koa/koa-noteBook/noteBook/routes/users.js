@@ -22,7 +22,7 @@ router.post('/userRegister', async(ctx, next) => {
   var _username = ctx.request.body.username;
   var _userpwd = ctx.request.body.userpwd;
   var _nickname = ctx.request.body.nickname;
-  if (!_username && !_userpwd && !_nickname) {
+  if (!_username || !_userpwd || !_nickname) {
     ctx.body = {
       code: '800001',
       mess: "用户名昵称密码不能为空"
