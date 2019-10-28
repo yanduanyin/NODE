@@ -28,6 +28,7 @@ export default {
     transform: translateX(-50%);
     width: 5.413333rem;
     height: 1.253333rem;
+    line-height: 1.253333rem;
     opacity: 0.75;
     border-radius: .5333333rem;
     background-color: rgba(11, 29, 64, 1);
