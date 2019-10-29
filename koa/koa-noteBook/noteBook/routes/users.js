@@ -120,7 +120,7 @@ router.post('/findNoteListByType', async(ctx, next) => {
         ctx.body = {
           code: '80004',
           data: r,
-          mess: '查找失败'
+          mess: '您的列表还没有数据，请添加数据! '
         }
       }
     }).catch((err) => {
@@ -130,5 +130,33 @@ router.post('/findNoteListByType', async(ctx, next) => {
       }
     })
 }) 
+// 根据笔记的ID查找笔记的详情
+router.post('/findNoteDetailById', async(ctx, next) => {
+  let id = ctx.request.body.id
+  await userService.findNoteDetailById(id)
+    .then(async(res) => {
+      let r = ''
+      if (res.length) {
+        r = 'ok',
+        ctx.body = {
+          code: '800000',
+          data: res[0],
+          mess: '查找成功'
+        }
+      } else {
+        r = 'error',
+        ctx.body = {
+          code: '800004',
+          data: r,
+          mess: '查找失败'
+        }
+      }
+    }).catch((err) => {
+      ctx.body = {
+        code: '800002',
+        data: err
+      }
+    })
+})
 
 module.exports = router
