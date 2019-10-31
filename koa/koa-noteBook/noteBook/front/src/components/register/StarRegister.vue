@@ -49,6 +49,7 @@ export default {
      }).then((res) => {
        console.log(res)
        if (res.data.code == '800000') {
+         // 临时保持用户登录状态，窗口关闭后其存储数据也就会被自动清除
          sessionStorage.setItem('userInfo', JSON.stringify(res.data.data))
         //  this.$router.push({path: '/noteClass'})
        } else {

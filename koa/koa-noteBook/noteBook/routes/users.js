@@ -158,5 +158,40 @@ router.post('/findNoteDetailById', async(ctx, next) => {
       }
     })
 })
+// 写笔记,将笔记的数据写到数据库
+router.post('/insertNote', async(ctx, next) => {
+  var _note_content = ctx.request.body.note_content;
+  var _head_img = ctx.request.body.head_img;
+  var _title = ctx.request.body.title;
+  var _note_type = ctx.request.body.note_type;
+  var _useId = ctx.request.body.useId;
+  var _nickname = ctx.request.body.nickname;
+  let note = {
+    note_content: _note_content,
+    head_img: _head_img,
+    title: _title,
+    note_type: _note_type,
+    useId: _useId,
+    nickname: _nickname
+  }
+  await userService.insertNote([note.note_content, note.head_img, note.title, note.note_type, note.useId, note.nickname]).then(async(res) => {
+    let r = ''
+    if (res.affectedRows != 0) {
+      r = 'ok'
+      ctx.body = {
+        code: '800000',
+        data: r,
+        mess: '笔记数据插入成功'
+      }
+    } else {
+      r = 'error'
+      ctx.body = {
+        code: '800004',
+        data: r,
+        mess: '笔记数据插入失败'
+      }
+    }
+  })
+})
 
 module.exports = router

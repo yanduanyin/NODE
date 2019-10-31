@@ -89,8 +89,8 @@ export default {
           subname: "科技"
         }
       ],
-      show: "",
-      selectCon: ""
+      show: '',
+      selectCon: ''
     };
   },
   components: {
@@ -122,21 +122,22 @@ export default {
       console.log(file);
       this.preImg = file.content;
     },
+    noEditorBlur () {},
     publish() {
       let curUserId = JSON.parse(sessionStorage.getItem("userInfo")).id;
       let nickname = JSON.parse(sessionStorage.getItem("userInfo")).nickname;
-      console.log("nickname=" + nickname);
-
+      // console.log("nickname=" + nickname);
+      // console.log("curUserId=" + curUserId);
       this.$http({
         method: "post",
         url: "http://localhost:3000/users/insertNote",
         data: {
-          note_content: this.content,
-          head_img: this.preImg,
-          title: this.title,
-          note_type: this.selectCon,
-          userId: curUserId,
-          nickname: nickname
+          note_content: this.content, // 文本
+          head_img: this.preImg, // 照片
+          title: this.title, // 标题
+          note_type: this.selectCon, // 选项
+          useId: curUserId, // 用户ID
+          nickname: nickname // 用户昵称
         }
       })
         .then(res => {

@@ -39,7 +39,7 @@ let getAllUsers = function () {
 }
 // 注册用户
 let insertUser = function (value) {
-  let _sql = `insert into users set username=?, userpwd=?, nickname=?;`
+  let _sql = `insert into users set username=?,userpwd=?,nickname=?;`
   return allServies.query(_sql, value)
 }
 // 查找用户
@@ -54,20 +54,25 @@ let userLogin = function (username, userpwd) {
 }
 // 根据页面笔记列表名称 来查找笔记列表的所需数据
 let findNoteListByType = function (note_type) {
-  let _sql = `select *from note where note_type="${note_type}"`
+  let _sql = `select *from note where note_type="${note_type}";`
   return allServies.query(_sql)
 }
 // 根据笔记列表的ID查找笔记的详情
 let findNoteDetailById = function (id) {
-  let _sql = `select *from note where id="${id}"`
+  let _sql = `select *from note where id="${id}";`
   return allServies.query(_sql)
 }
-// 
+// 写笔记,将笔记的数据写到数据库
+let insertNote = function (value) {
+  let _sql = `insert into note set note_content=?,head_img=?,title=?,note_type=?,useId=?,nickname=?;`
+  return allServies.query(_sql, value)
+}
 module.exports = {
   getAllUsers,
   insertUser,
   findUser,
   userLogin,
   findNoteListByType,
-  findNoteDetailById
+  findNoteDetailById,
+  insertNote
 }
