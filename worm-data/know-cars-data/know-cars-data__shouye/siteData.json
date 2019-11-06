@@ -1,0 +1,1333 @@
+[
+  {
+    "letter": "热门城市",
+    "child": [
+      {
+        "h4_content": "热门城市",
+        "citynames": [
+          {
+            "city_name": "北京"
+          },
+          {
+            "city_name": "上海"
+          },
+          {
+            "city_name": "广州"
+          },
+          {
+            "city_name": "深圳"
+          },
+          {
+            "city_name": "重庆"
+          },
+          {
+            "city_name": "天津"
+          },
+          {
+            "city_name": "成都"
+          },
+          {
+            "city_name": "杭州"
+          },
+          {
+            "city_name": "武汉"
+          },
+          {
+            "city_name": "苏州"
+          },
+          {
+            "city_name": "西安"
+          },
+          {
+            "city_name": "南京"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "a",
+    "child": [
+      {
+        "h4_content": "A",
+        "citynames": [
+          {
+            "city_name": "安阳"
+          },
+          {
+            "city_name": "鞍山"
+          },
+          {
+            "city_name": "安庆"
+          },
+          {
+            "city_name": "安康"
+          },
+          {
+            "city_name": "阿坝"
+          },
+          {
+            "city_name": "阿拉善"
+          },
+          {
+            "city_name": "阿克苏"
+          },
+          {
+            "city_name": "阿勒泰"
+          },
+          {
+            "city_name": "安顺"
+          },
+          {
+            "city_name": "澳门"
+          },
+          {
+            "city_name": "阿拉尔"
+          },
+          {
+            "city_name": "阿里"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "b",
+    "child": [
+      {
+        "h4_content": "B",
+        "citynames": [
+          {
+            "city_name": "北京"
+          },
+          {
+            "city_name": "蚌埠"
+          },
+          {
+            "city_name": "保定"
+          },
+          {
+            "city_name": "本溪"
+          },
+          {
+            "city_name": "包头"
+          },
+          {
+            "city_name": "亳州"
+          },
+          {
+            "city_name": "滨州"
+          },
+          {
+            "city_name": "白城"
+          },
+          {
+            "city_name": "百色"
+          },
+          {
+            "city_name": "白山"
+          },
+          {
+            "city_name": "白银"
+          },
+          {
+            "city_name": "宝鸡"
+          },
+          {
+            "city_name": "保山"
+          },
+          {
+            "city_name": "巴彦淖尔"
+          },
+          {
+            "city_name": "巴中"
+          },
+          {
+            "city_name": "北海"
+          },
+          {
+            "city_name": "毕节"
+          },
+          {
+            "city_name": "博尔塔拉"
+          },
+          {
+            "city_name": "巴音郭楞"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "c",
+    "child": [
+      {
+        "h4_content": "C",
+        "citynames": [
+          {
+            "city_name": "重庆"
+          },
+          {
+            "city_name": "成都"
+          },
+          {
+            "city_name": "长春"
+          },
+          {
+            "city_name": "长沙"
+          },
+          {
+            "city_name": "承德"
+          },
+          {
+            "city_name": "常州"
+          },
+          {
+            "city_name": "滁州"
+          },
+          {
+            "city_name": "沧州"
+          },
+          {
+            "city_name": "常德"
+          },
+          {
+            "city_name": "昌吉"
+          },
+          {
+            "city_name": "长治"
+          },
+          {
+            "city_name": "朝阳"
+          },
+          {
+            "city_name": "潮州"
+          },
+          {
+            "city_name": "郴州"
+          },
+          {
+            "city_name": "楚雄"
+          },
+          {
+            "city_name": "赤峰"
+          },
+          {
+            "city_name": "池州"
+          },
+          {
+            "city_name": "崇左"
+          },
+          {
+            "city_name": "昌都"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "d",
+    "child": [
+      {
+        "h4_content": "D",
+        "citynames": [
+          {
+            "city_name": "大连"
+          },
+          {
+            "city_name": "东莞"
+          },
+          {
+            "city_name": "德州"
+          },
+          {
+            "city_name": "丹东"
+          },
+          {
+            "city_name": "大理"
+          },
+          {
+            "city_name": "大庆"
+          },
+          {
+            "city_name": "大同"
+          },
+          {
+            "city_name": "达州"
+          },
+          {
+            "city_name": "德宏"
+          },
+          {
+            "city_name": "德阳"
+          },
+          {
+            "city_name": "定西"
+          },
+          {
+            "city_name": "迪庆"
+          },
+          {
+            "city_name": "东营"
+          },
+          {
+            "city_name": "东方"
+          },
+          {
+            "city_name": "儋州"
+          },
+          {
+            "city_name": "定安"
+          },
+          {
+            "city_name": "大兴安岭"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "e",
+    "child": [
+      {
+        "h4_content": "E",
+        "citynames": [
+          {
+            "city_name": "鄂州"
+          },
+          {
+            "city_name": "鄂尔多斯"
+          },
+          {
+            "city_name": "恩施"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "f",
+    "child": [
+      {
+        "h4_content": "F",
+        "citynames": [
+          {
+            "city_name": "福州"
+          },
+          {
+            "city_name": "阜阳"
+          },
+          {
+            "city_name": "佛山"
+          },
+          {
+            "city_name": "抚州"
+          },
+          {
+            "city_name": "防城港"
+          },
+          {
+            "city_name": "抚顺"
+          },
+          {
+            "city_name": "阜新"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "g",
+    "child": [
+      {
+        "h4_content": "G",
+        "citynames": [
+          {
+            "city_name": "广州"
+          },
+          {
+            "city_name": "贵阳"
+          },
+          {
+            "city_name": "桂林"
+          },
+          {
+            "city_name": "赣州"
+          },
+          {
+            "city_name": "广元"
+          },
+          {
+            "city_name": "甘孜"
+          },
+          {
+            "city_name": "广安"
+          },
+          {
+            "city_name": "贵港"
+          },
+          {
+            "city_name": "固原"
+          },
+          {
+            "city_name": "甘南"
+          },
+          {
+            "city_name": "果洛"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "h",
+    "child": [
+      {
+        "h4_content": "H",
+        "citynames": [
+          {
+            "city_name": "杭州"
+          },
+          {
+            "city_name": "合肥"
+          },
+          {
+            "city_name": "哈尔滨"
+          },
+          {
+            "city_name": "海口"
+          },
+          {
+            "city_name": "衡阳"
+          },
+          {
+            "city_name": "邯郸"
+          },
+          {
+            "city_name": "呼和浩特"
+          },
+          {
+            "city_name": "黄冈"
+          },
+          {
+            "city_name": "黄石"
+          },
+          {
+            "city_name": "湖州"
+          },
+          {
+            "city_name": "衡水"
+          },
+          {
+            "city_name": "呼伦贝尔"
+          },
+          {
+            "city_name": "黄山"
+          },
+          {
+            "city_name": "海北"
+          },
+          {
+            "city_name": "海西"
+          },
+          {
+            "city_name": "哈密"
+          },
+          {
+            "city_name": "汉中"
+          },
+          {
+            "city_name": "鹤壁"
+          },
+          {
+            "city_name": "河池"
+          },
+          {
+            "city_name": "鹤岗"
+          },
+          {
+            "city_name": "黑河"
+          },
+          {
+            "city_name": "和田"
+          },
+          {
+            "city_name": "河源"
+          },
+          {
+            "city_name": "菏泽"
+          },
+          {
+            "city_name": "贺州"
+          },
+          {
+            "city_name": "红河"
+          },
+          {
+            "city_name": "淮安"
+          },
+          {
+            "city_name": "淮北"
+          },
+          {
+            "city_name": "怀化"
+          },
+          {
+            "city_name": "淮南"
+          },
+          {
+            "city_name": "惠州"
+          },
+          {
+            "city_name": "葫芦岛"
+          },
+          {
+            "city_name": "海东"
+          },
+          {
+            "city_name": "海南"
+          },
+          {
+            "city_name": "黄南"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "j",
+    "child": [
+      {
+        "h4_content": "J",
+        "citynames": [
+          {
+            "city_name": "吉林"
+          },
+          {
+            "city_name": "济南"
+          },
+          {
+            "city_name": "九江"
+          },
+          {
+            "city_name": "揭阳"
+          },
+          {
+            "city_name": "酒泉"
+          },
+          {
+            "city_name": "嘉兴"
+          },
+          {
+            "city_name": "荆州"
+          },
+          {
+            "city_name": "锦州"
+          },
+          {
+            "city_name": "佳木斯"
+          },
+          {
+            "city_name": "吉安"
+          },
+          {
+            "city_name": "江门"
+          },
+          {
+            "city_name": "焦作"
+          },
+          {
+            "city_name": "嘉峪关"
+          },
+          {
+            "city_name": "金昌"
+          },
+          {
+            "city_name": "晋城"
+          },
+          {
+            "city_name": "景德镇"
+          },
+          {
+            "city_name": "荆门"
+          },
+          {
+            "city_name": "金华"
+          },
+          {
+            "city_name": "济宁"
+          },
+          {
+            "city_name": "晋中"
+          },
+          {
+            "city_name": "鸡西"
+          },
+          {
+            "city_name": "济源"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "k",
+    "child": [
+      {
+        "h4_content": "K",
+        "citynames": [
+          {
+            "city_name": "昆明"
+          },
+          {
+            "city_name": "开封"
+          },
+          {
+            "city_name": "喀什"
+          },
+          {
+            "city_name": "克拉玛依"
+          },
+          {
+            "city_name": "克孜勒苏"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "l",
+    "child": [
+      {
+        "h4_content": "L",
+        "citynames": [
+          {
+            "city_name": "兰州"
+          },
+          {
+            "city_name": "廊坊"
+          },
+          {
+            "city_name": "六安"
+          },
+          {
+            "city_name": "乐山"
+          },
+          {
+            "city_name": "来宾"
+          },
+          {
+            "city_name": "柳州"
+          },
+          {
+            "city_name": "聊城"
+          },
+          {
+            "city_name": "莱芜"
+          },
+          {
+            "city_name": "拉萨"
+          },
+          {
+            "city_name": "洛阳"
+          },
+          {
+            "city_name": "凉山"
+          },
+          {
+            "city_name": "连云港"
+          },
+          {
+            "city_name": "辽阳"
+          },
+          {
+            "city_name": "辽源"
+          },
+          {
+            "city_name": "丽江"
+          },
+          {
+            "city_name": "临沧"
+          },
+          {
+            "city_name": "临汾"
+          },
+          {
+            "city_name": "临夏"
+          },
+          {
+            "city_name": "临沂"
+          },
+          {
+            "city_name": "林芝"
+          },
+          {
+            "city_name": "丽水"
+          },
+          {
+            "city_name": "六盘水"
+          },
+          {
+            "city_name": "陇南"
+          },
+          {
+            "city_name": "龙岩"
+          },
+          {
+            "city_name": "娄底"
+          },
+          {
+            "city_name": "漯河"
+          },
+          {
+            "city_name": "泸州"
+          },
+          {
+            "city_name": "吕梁"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "m",
+    "child": [
+      {
+        "h4_content": "M",
+        "citynames": [
+          {
+            "city_name": "绵阳"
+          },
+          {
+            "city_name": "马鞍山"
+          },
+          {
+            "city_name": "茂名"
+          },
+          {
+            "city_name": "眉山"
+          },
+          {
+            "city_name": "梅州"
+          },
+          {
+            "city_name": "牡丹江"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "n",
+    "child": [
+      {
+        "h4_content": "N",
+        "citynames": [
+          {
+            "city_name": "南京"
+          },
+          {
+            "city_name": "南昌"
+          },
+          {
+            "city_name": "南宁"
+          },
+          {
+            "city_name": "宁波"
+          },
+          {
+            "city_name": "南通"
+          },
+          {
+            "city_name": "南充"
+          },
+          {
+            "city_name": "南平"
+          },
+          {
+            "city_name": "南阳"
+          },
+          {
+            "city_name": "内江"
+          },
+          {
+            "city_name": "宁德"
+          },
+          {
+            "city_name": "那曲"
+          },
+          {
+            "city_name": "怒江"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "p",
+    "child": [
+      {
+        "h4_content": "P",
+        "citynames": [
+          {
+            "city_name": "莆田"
+          },
+          {
+            "city_name": "濮阳"
+          },
+          {
+            "city_name": "盘锦"
+          },
+          {
+            "city_name": "攀枝花"
+          },
+          {
+            "city_name": "平顶山"
+          },
+          {
+            "city_name": "平凉"
+          },
+          {
+            "city_name": "萍乡"
+          },
+          {
+            "city_name": "普洱"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "q",
+    "child": [
+      {
+        "h4_content": "Q",
+        "citynames": [
+          {
+            "city_name": "青岛"
+          },
+          {
+            "city_name": "秦皇岛"
+          },
+          {
+            "city_name": "泉州"
+          },
+          {
+            "city_name": "衢州"
+          },
+          {
+            "city_name": "曲靖"
+          },
+          {
+            "city_name": "黔东南"
+          },
+          {
+            "city_name": "黔南"
+          },
+          {
+            "city_name": "黔西南"
+          },
+          {
+            "city_name": "庆阳"
+          },
+          {
+            "city_name": "清远"
+          },
+          {
+            "city_name": "钦州"
+          },
+          {
+            "city_name": "齐齐哈尔"
+          },
+          {
+            "city_name": "七台河"
+          },
+          {
+            "city_name": "琼海"
+          },
+          {
+            "city_name": "潜江"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "r",
+    "child": [
+      {
+        "h4_content": "R",
+        "citynames": [
+          {
+            "city_name": "日照"
+          },
+          {
+            "city_name": "日喀则"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "s",
+    "child": [
+      {
+        "h4_content": "S",
+        "citynames": [
+          {
+            "city_name": "上海"
+          },
+          {
+            "city_name": "深圳"
+          },
+          {
+            "city_name": "沈阳"
+          },
+          {
+            "city_name": "石家庄"
+          },
+          {
+            "city_name": "三门峡"
+          },
+          {
+            "city_name": "三明"
+          },
+          {
+            "city_name": "三亚"
+          },
+          {
+            "city_name": "商洛"
+          },
+          {
+            "city_name": "商丘"
+          },
+          {
+            "city_name": "苏州"
+          },
+          {
+            "city_name": "汕头"
+          },
+          {
+            "city_name": "汕尾"
+          },
+          {
+            "city_name": "十堰"
+          },
+          {
+            "city_name": "遂宁"
+          },
+          {
+            "city_name": "上饶"
+          },
+          {
+            "city_name": "绍兴"
+          },
+          {
+            "city_name": "邵阳"
+          },
+          {
+            "city_name": "双鸭山"
+          },
+          {
+            "city_name": "朔州"
+          },
+          {
+            "city_name": "四平"
+          },
+          {
+            "city_name": "松原"
+          },
+          {
+            "city_name": "绥化"
+          },
+          {
+            "city_name": "随州"
+          },
+          {
+            "city_name": "宿迁"
+          },
+          {
+            "city_name": "宿州"
+          },
+          {
+            "city_name": "石嘴山"
+          },
+          {
+            "city_name": "韶关"
+          },
+          {
+            "city_name": "神农架"
+          },
+          {
+            "city_name": "石河子"
+          },
+          {
+            "city_name": "山南"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "t",
+    "child": [
+      {
+        "h4_content": "T",
+        "citynames": [
+          {
+            "city_name": "天津"
+          },
+          {
+            "city_name": "太原"
+          },
+          {
+            "city_name": "唐山"
+          },
+          {
+            "city_name": "台州"
+          },
+          {
+            "city_name": "塔城"
+          },
+          {
+            "city_name": "泰安"
+          },
+          {
+            "city_name": "铁岭"
+          },
+          {
+            "city_name": "泰州"
+          },
+          {
+            "city_name": "天水"
+          },
+          {
+            "city_name": "铜川"
+          },
+          {
+            "city_name": "通化"
+          },
+          {
+            "city_name": "通辽"
+          },
+          {
+            "city_name": "铜陵"
+          },
+          {
+            "city_name": "铜仁"
+          },
+          {
+            "city_name": "吐鲁番"
+          },
+          {
+            "city_name": "天门"
+          },
+          {
+            "city_name": "台湾"
+          },
+          {
+            "city_name": "图木舒克"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "w",
+    "child": [
+      {
+        "h4_content": "W",
+        "citynames": [
+          {
+            "city_name": "武汉"
+          },
+          {
+            "city_name": "温州"
+          },
+          {
+            "city_name": "无锡"
+          },
+          {
+            "city_name": "乌鲁木齐"
+          },
+          {
+            "city_name": "芜湖"
+          },
+          {
+            "city_name": "潍坊"
+          },
+          {
+            "city_name": "威海"
+          },
+          {
+            "city_name": "渭南"
+          },
+          {
+            "city_name": "文山"
+          },
+          {
+            "city_name": "乌海"
+          },
+          {
+            "city_name": "乌兰察布"
+          },
+          {
+            "city_name": "武威"
+          },
+          {
+            "city_name": "吴忠"
+          },
+          {
+            "city_name": "梧州"
+          },
+          {
+            "city_name": "万宁"
+          },
+          {
+            "city_name": "五指山"
+          },
+          {
+            "city_name": "文昌"
+          },
+          {
+            "city_name": "五家渠"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "x",
+    "child": [
+      {
+        "h4_content": "X",
+        "citynames": [
+          {
+            "city_name": "西安"
+          },
+          {
+            "city_name": "厦门"
+          },
+          {
+            "city_name": "湘潭"
+          },
+          {
+            "city_name": "徐州"
+          },
+          {
+            "city_name": "许昌"
+          },
+          {
+            "city_name": "信阳"
+          },
+          {
+            "city_name": "西宁"
+          },
+          {
+            "city_name": "咸阳"
+          },
+          {
+            "city_name": "宣城"
+          },
+          {
+            "city_name": "新乡"
+          },
+          {
+            "city_name": "湘西"
+          },
+          {
+            "city_name": "襄阳"
+          },
+          {
+            "city_name": "咸宁"
+          },
+          {
+            "city_name": "孝感"
+          },
+          {
+            "city_name": "锡林郭勒"
+          },
+          {
+            "city_name": "兴安"
+          },
+          {
+            "city_name": "邢台"
+          },
+          {
+            "city_name": "新余"
+          },
+          {
+            "city_name": "忻州"
+          },
+          {
+            "city_name": "西双版纳"
+          },
+          {
+            "city_name": "香港"
+          },
+          {
+            "city_name": "仙桃"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "y",
+    "child": [
+      {
+        "h4_content": "Y",
+        "citynames": [
+          {
+            "city_name": "扬州"
+          },
+          {
+            "city_name": "银川"
+          },
+          {
+            "city_name": "宜昌"
+          },
+          {
+            "city_name": "岳阳"
+          },
+          {
+            "city_name": "榆林"
+          },
+          {
+            "city_name": "烟台"
+          },
+          {
+            "city_name": "雅安"
+          },
+          {
+            "city_name": "延安"
+          },
+          {
+            "city_name": "延边"
+          },
+          {
+            "city_name": "盐城"
+          },
+          {
+            "city_name": "阳江"
+          },
+          {
+            "city_name": "阳泉"
+          },
+          {
+            "city_name": "宜宾"
+          },
+          {
+            "city_name": "伊春"
+          },
+          {
+            "city_name": "宜春"
+          },
+          {
+            "city_name": "伊犁"
+          },
+          {
+            "city_name": "营口"
+          },
+          {
+            "city_name": "鹰潭"
+          },
+          {
+            "city_name": "益阳"
+          },
+          {
+            "city_name": "永州"
+          },
+          {
+            "city_name": "玉林"
+          },
+          {
+            "city_name": "运城"
+          },
+          {
+            "city_name": "云浮"
+          },
+          {
+            "city_name": "玉溪"
+          },
+          {
+            "city_name": "玉树"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "letter": "z",
+    "child": [
+      {
+        "h4_content": "Z",
+        "citynames": [
+          {
+            "city_name": "珠海"
+          },
+          {
+            "city_name": "肇庆"
+          },
+          {
+            "city_name": "张家口"
+          },
+          {
+            "city_name": "中山"
+          },
+          {
+            "city_name": "淄博"
+          },
+          {
+            "city_name": "驻马店"
+          },
+          {
+            "city_name": "枣庄"
+          },
+          {
+            "city_name": "张家界"
+          },
+          {
+            "city_name": "张掖"
+          },
+          {
+            "city_name": "漳州"
+          },
+          {
+            "city_name": "湛江"
+          },
+          {
+            "city_name": "昭通"
+          },
+          {
+            "city_name": "郑州"
+          },
+          {
+            "city_name": "镇江"
+          },
+          {
+            "city_name": "中卫"
+          },
+          {
+            "city_name": "周口"
+          },
+          {
+            "city_name": "舟山"
+          },
+          {
+            "city_name": "株洲"
+          },
+          {
+            "city_name": "自贡"
+          },
+          {
+            "city_name": "资阳"
+          },
+          {
+            "city_name": "遵义"
+          }
+        ]
+      }
+    ]
+  }
+]
