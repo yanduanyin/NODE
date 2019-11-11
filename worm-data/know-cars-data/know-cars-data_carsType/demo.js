@@ -58,7 +58,7 @@ let getbigLetter  = (res) => {
   if (res) {
     let $ = cheerio.load(res.text);
     // 使用cheerio对所要抓取数据的Dom结构进程处理
-    $('div.jsx-628525371 ul li').each((index, item) => {
+    $('div.jsx-628525371 ul li').each(function(index, item){
       let news = {
         content: $(item).text(),// 大写字母
       };
