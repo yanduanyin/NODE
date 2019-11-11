@@ -2,10 +2,7 @@
 const superagent = require('superagent');
 const fs = require('fs');
 const cheerio = require('cheerio');
-// const Nightmare = require('nightmare'); //  自动化测试包，处理动态页面
-// const express = require('express');
-// const nightmare = Nightmare({show: true});  // show:true  显示内置模拟浏览器
-// const app = express();
+
 
 // 热点排行榜数据
 var hotSpotData = []
