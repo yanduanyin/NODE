@@ -27,7 +27,7 @@ superagent
     // 所以通过nightmare 模拟发起接口请求获取数据
   }
   // 将爬下来的数据写成json保存下来
-  hotSpotData = JSON.stringify(hotSpotData) // 将数组变成字符串
+  hotSpotData = JSON.stringify(res) // 将数组变成字符串
   console.log(hotSpotData)
   // fs.writeFile("hotSpotData.json", hotSpotData, "utf-8", (error) => {
   // //   //监听错误，如正常输出，则打印null
