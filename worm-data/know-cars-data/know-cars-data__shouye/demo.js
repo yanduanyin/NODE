@@ -25,7 +25,7 @@ nightmare
   // 获取本地新闻数据
   // console.log(htmlStr)
   siteData = getCityname(htmlStr)
-
+  console.log(siteData)
   siteData = JSON.stringify(siteData)
   fs.writeFile("siteData.json", siteData, "utf-8", (error) => {
     //监听错误，如正常输出，则打印null
