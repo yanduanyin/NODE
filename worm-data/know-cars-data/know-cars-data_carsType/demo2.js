@@ -11,12 +11,12 @@ var hotSpotData = []
 // 通过nightmare 加载需要手动发起接口请求来动态获取数据的DOm结构
 nightmare
 .goto('https://www.dcdapp.com/popular')
-.wait("div.newcar")
-.evaluate(() => document.querySelector("div.newcar").innerHTML)
+.wait(6000)
+.evaluate(() => document.querySelector("div.content").innerHTML)
 .then(htmlStr => {
-  console.log(htmlStr)
+  // console.log(htmlStr)
   hotSpotData = gethotSpot(htmlStr)
-  // console.log(hotSpotData)
+  // console.log(hotSpotData, 1)
   hotSpotData = JSON.stringify(hotSpotData)
   fs.writeFile("hotSpotData.json", hotSpotData, "utf-8", (error) => {
     //监听错误，如正常输出，则打印null
@@ -30,17 +30,25 @@ nightmare
 })
 
 
-let gethotSpot  = (res) => {
-  if (res) {
-    let $ = cheerio.load(res.text);
+let gethotSpot  = (htmlStr) => {
+  if (htmlStr) {
+    let $ = cheerio.load(htmlStr);
+    console.log(htmlStr,2);
+    
+    let lsnews = ''
     // 使用cheerio对所要抓取数据的Dom结构进程处理
-    $('div.list').each( (index, item) => { 
-      let news = {
-        imgUrl: $(item).find('div.cover').css('background-image').replace('url(','').replace(')',''),// 背景图片Url
-        time: $(item).find('div.series .time').text(), //排名上升或下降
-        name: $(item).find('div.series .name').text(), // 车名字
-        price: $(item).find('div.series .price').text() // 车价
+    $('div.list').each( function(index, item){ 
+      let rank = $(item).children('.rank').text()
+      $('.series', this).each(function (sindex, sitem) {
+        lsnews = {
+          cars_name: $(this).children('.name').text(),
+          cars_price: $(this).children().last().text()
+        }
+      })
+      let news1 = {
+       cars_rank: rank
       };
+      let news = JSON.parse((JSON.stringify(lsnews) + JSON.stringify(news1)).replace(/}{/, ',')); // 将两个json合并
       hotSpotData.push(news) // 存入数组
     })
     return hotSpotData

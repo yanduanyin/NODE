@@ -11,10 +11,10 @@ var CarsAppData = []
 // 通过nightmare 加载需要手动发起接口请求来动态获取数据的DOm结构
 nightmare
 .goto('https://www.dcdapp.com/')
-.wait("div.feed")
+.wait(4000)
 .evaluate(() => document.querySelector("div.feed").innerHTML)
 .then(htmlStr => {
-  console.log(htmlStr)
+  // console.log(htmlStr)
   CarsAppData = getCarsApp(htmlStr)
   // console.log(CarsAppData)
   CarsAppData = JSON.stringify(CarsAppData)
@@ -30,29 +30,34 @@ nightmare
 })
 
 
-let getCarsApp  = (res) => {
-  if (res) {
-    let $ = cheerio.load(res.text);
-    let childs = []
+let getCarsApp  = (htmlStr) => {
+  if (htmlStr) {
+    console.log(htmlStr, 1);
+
+    let $ = cheerio.load(htmlStr);
+    
     // 使用cheerio对所要抓取数据的Dom结构进程处理
     $('div.box').each(function (index, item) { 
-      $('span.jsx-985400560', this).each(function (Nindex, Nitem) {
-        $(this).each(function () {
-          let child = {
-            nameTime: $(this).text()
-          }
-          childs.push(child)
-        })
-        
+      let lsjson = ''
+      let titlejson = ''
+      $('a.photo', this).each(function (pindex, pitem) {
+        lsjson = {
+          href_logo: $(this).attr('href'), //logo链接地址
+          // imgUrl: $(this).children().first().attr('url'),
+          imgUrl: 'https://p1.pstatp.com/w480/pgc-image/b52a788fbc5e438a890c35baf352adfc.webp',
+          video_time: $(this).children('.duration').text()
+        }
       })
-      let news = {
-        imgUrl: $(item).find('a.photo .jsx-4288683969').css('background-image').replace('url(','').replace(')',''),// 背景图片Url
-        href_logo: $(item).find('a.photo').attr('href'), //logo链接地址
-        href_title: $(item).find('div.info a.line-2').attr('href'),
-        text_title: $(item).find('div.info a.line-2').text(),
-        href_name: $(item).find('div.info .name').attr('href'),
-        childs: childs
-      };
+      $('div.info', this).each(function (Iindex, Iitem) {
+        titlejson = {
+          href_title: $(this).children('.title').attr('href'),
+          text_title: $(this).children('.title').text(),
+          href_name: $(this).children('.name').attr('href'),
+          text_name: $(this).children('.name').children().first().text(),
+          text_time: $(this).children('.name').children().last().text()
+        }
+      })
+      let news = JSON.parse((JSON.stringify(lsjson) + JSON.stringify(titlejson)).replace(/}{/, ',')); // 将两个json合并
       CarsAppData.push(news) // 存入数组
     })
     return CarsAppData
