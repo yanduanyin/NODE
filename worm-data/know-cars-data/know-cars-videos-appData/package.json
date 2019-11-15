@@ -1,0 +1,17 @@
+{
+  "name": "know-cars-videos-appData",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "nightmare": "^3.0.2",
+    "superagent": "^5.1.0"
+  }
+}
