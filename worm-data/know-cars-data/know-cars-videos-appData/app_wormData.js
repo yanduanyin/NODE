@@ -44,7 +44,6 @@ let getCarsApp  = (htmlStr) => {
         lsjson = {
           href_logo: $(this).attr('href'), //logo链接地址
           imgUrl: 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp',
-          imgUrl: $(this).children().first().attr(style),
           video_time: $(this).children('.duration').text()
         }
       })
