@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>jsonp</title>
+</head>
+<body>
+  <!-- 协议：//域名.com:port(默认80) -->
+  <!-- http://www.baidu.com:80 -->
+  <!-- https://www.baidu.com:443 -->
+  <!-- 3部分只要有一个不同 就会产生跨域 -->
+ 
+
+  <script>
+    function getBook(data) {
+      console.log('data', data);
+    }
+  </script>
+  <!-- getBook([{}, {}]) -->
+  <!-- <script src="http://localhost:3000/api/books"></script>  -->
+  <!-- 请求回来的内容当做js执行 -->
+  <!-- script返回"getBook([{"book":"book2"}])" 相当于直接运行之前定义的getbook() -->
+  <!-- <script src="http://localhost:3000/api/books?callback=getBook"></script> -->
+  <!-- 封装一个jsonp -->
+  <!-- jsonp({url:,callback: }).then() -->
+  <script>
+    function jsonP(option) {
+      const { url, callback } = option
+      return new Promise((resolve, reject) => {
+        let methodName = 'abcdefg'
+        window[methodName] = function(data) {
+          resolve(data)
+          delete window[methodName]
+          document.body.removeChild(scriptNode)
+        }
+        var scriptNode = document.createElement('script')
+        scriptNode.src = `${url}?${callback}=${methodName}`
+        document.body.appendChild(scriptNode)
+        scriptNode.onerror = function() {
+          reject('error')
+          delete window[methodName]
+          document.body.removeChild(scriptNode)
+        }
+      })
+    }
+    jsonP({
+      url: 'http://localhost:3000/api/books',
+      callback: 'callback'
+    }).then(res => {
+      console.log(res)
+    })
+  </script>
+</body>
+</html>
