@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    document.cookie = "hello = world"; // 键值对
+    let myHeaders = new Headers();
+    myHeaders.append('Content-Type', 'application/json');
+    myHeaders.append('X-custume', 'abc'); // X-custume人为定义
+    fetch('http://localhost:3000/api/books', { // 请求头，请求体
+      method: 'POST', // 'POST'传数据 'GET'拿数据
+      headers: myHeaders,
+      body: { a: 1 },
+      credentials: "include" 
+    })  
+      .then(res => res.json())
+      .then(data => {
+        console.log(data);
+      })
+  </script>
+</body>
+</html>
