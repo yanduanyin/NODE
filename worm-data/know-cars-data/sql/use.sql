@@ -1,0 +1,46 @@
+CREATE TABLE table_name
+(
+     href_logo 	varchar(300),
+     imgUrl 	varchar(300),
+     video_time 	varchar(300),
+     href_title 	varchar(300),
+     text_title 	varchar(300),
+     href_name 	varchar(300),
+     text_name 	varchar(300),
+     text_time 	varchar(255)
+);
+
+INSERT INTO table_name ( href_logo , imgUrl , video_time , href_title , text_title , href_name , text_name , text_time )
+VALUES
+    ('/article/6728960171726340612', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6728960171726340612', '买车，是选“T”还是“L”, 哪个好？', '/article/6728960171726340612', '情兽的', '7分钟前'),
+    ('/article/6738193044123681284', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6738193044123681284', '最适合“穷人”开的3款汽车！不仅省油，还号称开到报废都不大修', '/article/6738193044123681284', '每日分享多一点', '15分钟前'),
+    ('/article/6757602209531167245', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6757602209531167245', '这3种车看着很好，但不是每个人都能驾驭，选车要谨慎', '/article/6757602209531167245', '天下有车', '22分钟前'),
+    ('/article/6728313332324893188', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6728313332324893188', '跑高速时该用D档，还是S档？老司机未必懂', '/article/6728313332324893188', '嗨车驿站', '30分钟前'),
+    ('/article/6757268653017661966', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6757268653017661966', '明明自动挡很方便，为啥出租车却不用？司机：开那破车怎么挣钱？', '/article/6757268653017661966', '唠唠车', '37分钟前'),
+    ('/article/6731153039735915011', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6731153039735915011', '自动挡都快开报废了，许多车主竟然没有用过这个按键！你用过吗', '/article/6731153039735915011', '南通汇菱', '45分钟前'),
+    ('/article/6729658634021634564', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6729658634021634564', '汽车尾标T、L、Li都是啥意思？如果这都不知道，建议先别买车', '/article/6729658634021634564', '将令如山', '52分钟前'),
+    ('/article/6753583525586272781', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6753583525586272781', '我用小众机油德国GT魔力红后悔了：后悔没早点用上', '/article/6753583525586272781', '汽车发烧圈', '1小时前'),
+    ('/article/6740242241756856836', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6740242241756856836', '家用车“宽轮胎”和“窄轮胎”，到底哪个好？了解一下', '/article/6740242241756856836', '用车社', '1小时前'),
+    ('/article/6748396750052000264', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6748396750052000264', '自动挡的汽车，以什么速度行驶最省油？', '/article/6748396750052000264', '老侯解车', '1小时前'),
+    ('/article/6746064016503751182', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6746064016503751182', '自动档车在等红灯时可以在D档一直踩着刹车吗？有必要挂N档吗', '/article/6746064016503751182', '最浪漫的攻略', '1小时前'),
+    ('/article/6746072072138523150', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6746072072138523150', '自动挡上坡，动力不足该如何换挡？换不好有可能车毁人亡', '/article/6746072072138523150', '暴风还是风暴', '1小时前'),
+    ('/article/6761180714906960395', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '00:10', '/article/6761180714906960395', '高档大气有档次的360脚垫', '/article/6761180714906960395', '土豆炖魔芋', '1小时前'),
+    ('/article/6735046522569753102', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6735046522569753102', '「车主日常」这咋办咋办啊，头都急烂了，不敢开了', '/article/6735046522569753102', '懂车之道', '1小时前'),
+    ('/article/6761305919021122051', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6761305919021122051', '加油也有“门道”，加满和加200哪个好？加油工：其实都不对', '/article/6761305919021122051', '汽车品质新闻', '1小时前'),
+    ('/article/6746940194093531651', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6746940194093531651', '自动挡车型左脚用来干嘛的？', '/article/6746940194093531651', '孤独的车轮', '2小时前'),
+    ('/article/6748651673440223748', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6748651673440223748', '1.4T、1.6T、1.8T发动机等于多少L？1.4T差不多是这个数', '/article/6748651673440223748', '天下有车', '2小时前'),
+    ('/article/6733100762567541251', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6733100762567541251', '这4个驾驶习惯最费油，超过3个，开什么车都是油老虎', '/article/6733100762567541251', '天下有车', '2小时前'),
+    ('/article/6759924062471848451', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6759924062471848451', '为啥每次跑完高速，汽车都变得很轻快？老司机：这不废话吗', '/article/6759924062471848451', '汽车品质新闻', '2小时前'),
+    ('/article/6761324931893428750', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6761324931893428750', '4款发动机比较好的国产车，其中一款比丰田还耐开？有你的车吗？', '/article/6761324931893428750', '天下有车', '2小时前'),
+    ('/article/6753784322102133252', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6753784322102133252', '车子正常不开可以停放几天？', '/article/6753784322102133252', '天下有车', '2小时前'),
+    ('/article/6760826270453383684', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6760826270453383684', '高手原来都是这样开车的，怪不得自己开车起步那么慢', '/article/6760826270453383684', '私人地铁', '2小时前'),
+    ('/article/6758231544604672520', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6758231544604672520', '跑高速时，车速120是最费油的，什么速度最省油？看完就明白', '/article/6758231544604672520', '老潘侃车', '2小时前'),
+    ('/article/6754272303149744653', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6754272303149744653', '为什么“悬浮屏”刚出来，众多有车的人遗弃导航？车友：优势真大', '/article/6754272303149744653', '萌萌我', '3小时前'),
+    ('/article/6758722781543662083', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6758722781543662083', '比较适合跑长途高速的4款车，底盘韧性足，家用商用都可以', '/article/6758722781543662083', '天下有车', '3小时前'),
+    ('/article/6745988540011643406', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6745988540011643406', '路边乱停车会有什么后果？看了下面这几种你害怕了吗？', '/article/6745988540011643406', '小舅子讲车儿', '3小时前'),
+    ('/article/6742400505198150156', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6742400505198150156', '在高速上爆胎，停在应急车道上换胎6分没了！这是怎么一回事？', '/article/6742400505198150156', '天下有车', '3小时前'),
+    ('/article/6745035660052136456', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6745035660052136456', '“走灰不走白，见黑停下来”，是啥意思？新手千万别不当回事儿', '/article/6745035660052136456', '汽车品质新闻网', '3小时前'),
+    ('/article/6745342533221483012', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6745342533221483012', '系红绳的车，司机为什么都主动避让，这是有什么原理？', '/article/6745342533221483012', '法治安顺', '3小时前'),
+    ('/article/6745991189058552324', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6745991189058552324', '高速路突然限速60，很多人不懂怎么办，正确做法是什么？', '/article/6745991189058552324', '天下有车', '3小时前'),
+    ('/article/6741954824213889543', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6741954824213889543', '自动挡等红灯，D挡+脚刹，还是N挡+手刹？', '/article/6741954824213889543', '车柠檬', '3小时前'),
+    ('/article/6752494570627400206', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6752494570627400206', '同样是92号汽油，两桶油7元，私营加油站5元，有啥区别吗？', '/article/6752494570627400206', '汽车信息传递', '4小时前');

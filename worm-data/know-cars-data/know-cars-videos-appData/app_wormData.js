@@ -21,7 +21,7 @@ nightmare
   fs.writeFile("CarsAppData.json", CarsAppData, "utf-8", (error) => {
     //监听错误，如正常输出，则打印null
     if (error == null) {
-      console.log("恭喜您，CarsAppData数据爬取成功!)");
+      console.log("恭喜您，CarsAppData2数据爬取成功!)");
     }
   })
 })

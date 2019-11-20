@@ -1,0 +1,46 @@
+CREATE TABLE table_name
+(
+     href_logo 	varchar(300),
+     imgUrl 	varchar(300),
+     video_time 	varchar(300),
+     href_title 	varchar(300),
+     text_title 	varchar(300),
+     href_name 	varchar(300),
+     text_name 	varchar(300),
+     text_time 	varchar(255)
+);
+
+INSERT INTO table_name ( href_logo , imgUrl , video_time , href_title , text_title , href_name , text_name , text_time )
+VALUES
+    ('/article/6728030538768056845', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6728030538768056845', '吉利版“帕拉梅拉”，车长超5米，2.0T发动机，或不足30万', '/article/6728030538768056845', '驰哥说车', '7分钟前'),
+    ('/article/6740964633818956292', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6740964633818956292', '全新吉利远景SUV运动版官图来了！轴距2661mm 141马力配1.4T', '/article/6740964633818956292', '汽车占', '15分钟前'),
+    ('/article/6746535197266674188', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6746535197266674188', '2020款现代索纳塔美图，外观激进，内饰比9代豪华，尾灯形似思域', '/article/6746535197266674188', '新车迷网', '22分钟前'),
+    ('/article/6759895403874746887', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6759895403874746887', '不懂车的选奇骏，半懂不懂的选CR-V，真正懂车的可能会看它', '/article/6759895403874746887', '暴走的车教授', '30分钟前'),
+    ('/article/6736024440406016524', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6736024440406016524', '吉利全新SUV-icon要来了！177马力配1.5T', '/article/6736024440406016524', '汽车占', '37分钟前'),
+    ('/article/6735066403084173831', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6735066403084173831', '经常跑长途，开高速，你开过的，让你觉得最舒服的车是什么车？', '/article/6735066403084173831', '车轮之下', '45分钟前'),
+    ('/article/6761020210808881678', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6761020210808881678', '全新捷豹XEL即将上市！提供两种外观 250马力配2.5T+8AT', '/article/6761020210808881678', '汽车占', '52分钟前'),
+    ('/article/6742819095634248195', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6742819095634248195', '街头偶遇全新现代索纳塔！白色车身质感不俗', '/article/6742819095634248195', '汽车占', '1小时前'),
+    ('/article/6761214302054515211', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6761214302054515211', 'WEY VV7GT PHEV上市，除了依旧能打的外观，还带来了什么新科技', '/article/6761214302054515211', '车趣事', '1小时前'),
+    ('/article/6730596230457475588', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6730596230457475588', '为大家推荐三款小钢炮', '/article/6730596230457475588', '俥先生C', '1小时前'),
+    ('/article/6748681349747442179', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6748681349747442179', '2020款丰田卡罗拉强势来袭！', '/article/6748681349747442179', '伢伢菌聊car', '1小时前'),
+    ('/article/6761375740043723275', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6761375740043723275', '同是换代新车，朗逸和轩逸谁更值得买？', '/article/6761375740043723275', '汽车路边社', '1小时前'),
+    ('/article/6734527841624392199', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6734527841624392199', '全新的本田思域，外观帅气，同时动力十足大受好评', '/article/6734527841624392199', '斌斌说车', '1小时前'),
+    ('/article/6761280988271084043', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6761280988271084043', '2020款迈腾正式亮相，尾部带字母，档次媲美辉昂，上市没雅阁啥事', '/article/6761280988271084043', '中新时讯', '1小时前'),
+    ('/article/6761400180894859779', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6761400180894859779', '全新捷达VS7实车再度现身！车长超4.6米 油耗6.7L 150马力配1.4T', '/article/6761400180894859779', '汽车占', '1小时前'),
+    ('/article/6761278105429475851', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6761278105429475851', '合资中级车13万起，匹配9AT、独立悬挂、近期销量暴增！', '/article/6761278105429475851', '汽车研发工程师', '2小时前'),
+    ('/article/6733369035511038478', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6733369035511038478', '车主捡漏喜提 途昂X，直言动力并不是网络上说的那么差', '/article/6733369035511038478', '隔壁的汽车迷', '2小时前'),
+    ('/article/6761190584481743367', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6761190584481743367', '全新猎豹轿跑SUV登场，国内品牌能否再次辉煌', '/article/6761190584481743367', 'MollyParty', '2小时前'),
+    ('/article/6741667597114147331', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6741667597114147331', '顶配就8万，油耗才要4毛5，竟然还有天窗', '/article/6741667597114147331', '买车家', '2小时前'),
+    ('/article/6733755342921941515', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6733755342921941515', '汉兰达大势已去！272马力+四驱+矩阵大灯，关键是，还带豪车标', '/article/6733755342921941515', '星之车', '2小时前'),
+    ('/article/6761339405442482695', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6761339405442482695', '更帅更犀利的三菱SUV  新款劲炫ASX抢先看', '/article/6761339405442482695', '网上车市', '2小时前'),
+    ('/article/6737101251302916612', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6737101251302916612', '售6.58万-9.28万元 捷达VA3正式上市', '/article/6737101251302916612', '90君', '2小时前'),
+    ('/article/6733352973994295822', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6733352973994295822', '不怕奔驰和路虎，就怕大众标下带字母！全新迈腾强势回归', '/article/6733352973994295822', '小小硕CL', '2小时前'),
+    ('/article/6761356060730065411', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6761356060730065411', '仅7.58万起售 嘉悦A5上市 德味十足年轻人第一辆车的最佳选择？', '/article/6761356060730065411', '汽车天涯', '3小时前'),
+    ('/article/6742826610749080068', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6742826610749080068', '2020款全新宝骏530要来了！提供5/6/7座 147马力配1.5T+CVT', '/article/6742826610749080068', '汽车占', '3小时前'),
+    ('/article/6759512051053232651', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6759512051053232651', '加价难求全新领克03+ 配沃尔沃原生2.0TD T5加8AT动力组', '/article/6759512051053232651', '汽车学徒之家', '3小时前'),
+    ('/article/6753510718462493196', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6753510718462493196', '2020款奔驰GLS450，霸气的代言人，造型犀利', '/article/6753510718462493196', 'AUTO有智', '3小时前'),
+    ('/article/6760657341814669837', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6760657341814669837', '全新凯迪拉克CT4有望2020年上市！车长近4.8米 230马力配2.0T', '/article/6760657341814669837', '汽车占', '3小时前'),
+    ('/article/6738204230651216391', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6738204230651216391', '全新宝马X1，更大更有面子', '/article/6738204230651216391', '神马汽车解说', '3小时前'),
+    ('/article/6741339035505000972', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6741339035505000972', '2020款全新广汽传祺GM8实车到店！轴距3米 252马力配2.0T+8AT', '/article/6741339035505000972', '汽车占', '3小时前'),
+    ('/article/6761303124264092171', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6761303124264092171', '移动的一个亿，这辈子都不一定能见到', '/article/6761303124264092171', '买车只看颜值', '3小时前'),
+    ('/article/6760095417578291716', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6760095417578291716', '五菱宏光海外版曝光，网友：在国内肯定卖的更好', '/article/6760095417578291716', '专注教车20年', '4小时前');

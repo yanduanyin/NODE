@@ -1,0 +1,46 @@
+CREATE TABLE table_name
+(
+     href_logo 	varchar(300),
+     imgUrl 	varchar(300),
+     video_time 	varchar(300),
+     href_title 	varchar(300),
+     text_title 	varchar(300),
+     href_name 	varchar(300),
+     text_name 	varchar(300),
+     text_time 	varchar(255)
+);
+
+INSERT INTO table_name ( href_logo , imgUrl , video_time , href_title , text_title , href_name , text_name , text_time )
+VALUES
+    ('/article/6742352924132770318', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6742352924132770318', '人一辈子不得不去的地方之一神农架自驾游', '/article/6742352924132770318', '嗨客自驾旅行', '7分钟前'),
+    ('/article/6759936333780615687', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6759936333780615687', '女大学生喜欢自驾游，她会在车里准备好衣服，让旅途变得轻松', '/article/6759936333780615687', 'InsTalk', '15分钟前'),
+    ('/article/6745428755373621771', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6745428755373621771', '推荐两条中国最美的草原自驾公路，一定要开着爱车带着家人去一次', '/article/6745428755373621771', 'Eden侃旅行', '22分钟前'),
+    ('/article/6761231993070944776', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '04:50', '/article/6761231993070944776', '小伙花十几万买车自驾游不到一年就生锈了，国产车都这样吗？', '/article/6761231993070944776', '90夫妻自驾游', '30分钟前'),
+    ('/article/6744565877682733571', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6744565877682733571', '大西北自驾，10月飘雪骑马飞奔，最美的风景在路上', '/article/6744565877682733571', '雁行江湖', '37分钟前'),
+    ('/article/6734998648192500231', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '03:25', '/article/6734998648192500231', '座椅这样改装，就可以在后备箱睡觉了，睡的太舒服了', '/article/6734998648192500231', '馨予带你去旅行', '45分钟前'),
+    ('/article/6740864151423287812', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '06:32', '/article/6740864151423287812', '小伙微型车自驾游，1.0自吸排量爬坡是否真的那么无力？', '/article/6740864151423287812', '小白的奇幻旅行', '52分钟前'),
+    ('/article/6745376426238673421', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6745376426238673421', '贵州最原生态的溶洞之一，完全没开发，外地人连入口都找不到', '/article/6745376426238673421', '平凡之旅', '1小时前'),
+    ('/article/6736486828456542732', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6736486828456542732', '旅游自驾惨痛教训：罚款比租车还贵！这些违章你们不可忽视', '/article/6736486828456542732', '夜半歌声是首歌', '1小时前'),
+    ('/article/6745739072360153604', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6745739072360153604', '爬山半小时，观景半小时，大家说茂兰的峰丛跟万峰林比如何？', '/article/6745739072360153604', '平凡之旅', '1小时前'),
+    ('/article/6757997815105847819', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6757997815105847819', '福清228国道项目', '/article/6757997815105847819', '湫的金色芒果', '1小时前'),
+    ('/article/6747482781313417732', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6747482781313417732', '人一生必去的55个地方-茶卡盐湖+青海湖之青藏高原风光自驾游', '/article/6747482781313417732', '嗨客自驾旅行', '1小时前'),
+    ('/article/6733543676233908743', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6733543676233908743', '广西自驾遇奶奶开餐馆，炒菜15元烧鱼30元米饭1元，最后还送碗汤', '/article/6733543676233908743', '书影', '1小时前'),
+    ('/article/6730512694790586887', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '01:32', '/article/6730512694790586887', '川藏线穷游美女想搭便车！必须要满足车主2个前提，否则免谈', '/article/6730512694790586887', '八零世界', '1小时前'),
+    ('/article/6736144848086106631', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '03:24', '/article/6736144848086106631', '买SUV最大的好处可以当房车，自驾游可以在车上睡大觉，太爽了。', '/article/6736144848086106631', '南仔视界', '1小时前'),
+    ('/article/6758318698190078477', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '00:47', '/article/6758318698190078477', '一个人自驾游到安徽，半夜被猛拍车窗，小伙吓得腿软躲在车里', '/article/6758318698190078477', '启航游', '2小时前'),
+    ('/article/6734572001706377742', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6734572001706377742', '黑龙江高速服务区特写之安达服务区', '/article/6734572001706377742', '爱玩的老朱同学', '2小时前'),
+    ('/article/6743034318974616076', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6743034318974616076', '中国最给力的十条自驾游路线', '/article/6743034318974616076', '城市周边', '2小时前'),
+    ('/article/6760484524804538883', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6760484524804538883', '自驾游北京，和长腿美女一起玩摄影，令人心驰神往', '/article/6760484524804538883', '趣廷学摄影', '2小时前'),
+    ('/article/6756095289389482503', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6756095289389482503', '川藏线上的这东西最可怕，驴友：要比穷游者可怕的多', '/article/6756095289389482503', '临颍快报', '2小时前'),
+    ('/article/6740096973409354252', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6740096973409354252', '自驾游一天跑多少公里合适？一次特殊的自驾经历给出了答案', '/article/6740096973409354252', '资深飘族', '2小时前'),
+    ('/article/6739336737148895752', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '06:46', '/article/6739336737148895752', '女司机开车去桂林龙脊梯田 自驾游一次表示以后不再去了', '/article/6739336737148895752', '芳香源泉', '2小时前'),
+    ('/article/6755677692818883080', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '05:29', '/article/6755677692818883080', '开着迈腾去流浪，每天我是这样在不同的地方露营生活睡觉的，超爽', '/article/6755677692818883080', '大强在旅途', '2小时前'),
+    ('/article/6746742510485242382', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '05:09', '/article/6746742510485242382', '大众升顶房车，非常适合旅行的一款车，旅行居家两不误', '/article/6746742510485242382', '河马新时代', '3小时前'),
+    ('/article/6746736901094392328', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '02:42', '/article/6746736901094392328', '自驾穷游床车储物空间很重要，床车这样改，储物空间大实用', '/article/6746736901094392328', '老鹰旅行记', '3小时前'),
+    ('/article/6745450240951714312', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6745450240951714312', '距荔波县城大约10公里的地方，有个观音峰景区，很多人不知道', '/article/6745450240951714312', '平凡之旅', '3小时前'),
+    ('/article/6761183087133983243', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '06:37', '/article/6761183087133983243', '自驾新疆跑了10000公里来做保养，才发现车辆有重大安全隐患！', '/article/6761183087133983243', '爱游随我去', '3小时前'),
+    ('/article/6744958477048758798', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6744958477048758798', '小情侣自驾游西藏，旅途遇强风，只有躲在牧场里做饭了', '/article/6744958477048758798', '游行之梦', '3小时前'),
+    ('/article/6744179211696603660', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6744179211696603660', '为什么有人喜欢一个人自驾出游，而有人却喜欢结伴？答案在这里', '/article/6744179211696603660', '资深飘族', '3小时前'),
+    ('/article/6744909235366134276', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '03:12', '/article/6744909235366134276', '自驾游走辅路，一万公里的，空滤惨不忍睹', '/article/6744909235366134276', '一起瞭望远方', '3小时前'),
+    ('/article/6757614916296770052', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '06:45', '/article/6757614916296770052', '自驾游47天了 给大家介绍一下我的车 以及装备介绍 给大家参考', '/article/6757614916296770052', '刘师傅游记', '3小时前'),
+    ('/article/6758394138732806659', 'https://p3.pstatp.com/w480/pgc-image/dd1ce8a8159a45a6a1eb5a94b62e7fb0.webp', '', '/article/6758394138732806659', '床车改装 工厂直销', '/article/6758394138732806659', '带着梦想去旅行010', '4小时前');
