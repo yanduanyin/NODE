@@ -10,3 +10,39 @@
    2. 在多重循环结构里， 注意this的使用，在使用jq语法取到的是一个数组要用each来遍历时，绑定了this就用this,没有绑定就用循环的item
    3. 使用cheerio语法， 必须到你要取的元素这里来才能获取成功，不能...传递来取
    4. cheerio 取不到样式里的url的值，一般浏览器会通过js来手动加载，可以在控制台中找到加载出来的数据手动的复制
+
+
+- nightmare 自动登录并轮询的例子
+
+   有那么一个网站（比如叫chagang.site)，在我登录进去后，会不定时的查岗，需要点击一个按钮以证明没有离线，怎么用nightmare实现自动挂机呢？
+
+   大概分这么几步走：
+
+   - 先跳转到该网站
+   - 模拟输入帐号信息后点击submit
+   - 登录后等待主界面加载出现
+   - 在客户端起一个定时器，2秒一次轮询那个查岗按钮，发现就模拟点击
+   nightmare
+   .goto('http://chagang.site/')
+   .viewport(1024, 768)
+   .cookies.clearAll()
+   .type('#username', '用户名')
+   .type('#password', '密码')
+   .click('input[type=submit]')
+   .wait('#mainContent')
+   .evaluate(() => {
+      /* eslint-disable */
+      function handle() {
+   // 一个叫inspector的button
+         var inspector = document.querySelector('#inspector');
+         if (inspector && inspector.style.visibility === 'visible') {
+         inspector.click();
+         }
+      }
+   
+      setInterval(handle, 2000);
+      /* eslint-enable */
+   })
+   .evaluate(() => document.title)
+   .then(title => console.log(`${title} => 加载完成`))
+   .catch(err => console.error(err))
