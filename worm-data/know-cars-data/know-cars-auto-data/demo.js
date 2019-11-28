@@ -36,6 +36,7 @@ let getbigLetter  = (res) => {
       let carsName = []
       $('p.brand', this).each(function(idx, i) { 
         let list = {
+          brand_id: $(i).attr('class').slice(21),
           imgSrc: $(i).children('img').attr('src'),
           text: $(i).children('span').text()
         }

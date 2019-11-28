@@ -1,0 +1,1742 @@
+[
+  {
+    "bigLetter": "A",
+    "imgName": [
+      {
+        "brand_id": "brand-2",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd5000048d6334c26b4~tplv-resize:100:0.png",
+        "text": "奥迪"
+      },
+      {
+        "brand_id": "brand-80",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd5000018f89ff63f66~tplv-resize:100:0.png",
+        "text": "阿斯顿·马丁"
+      },
+      {
+        "brand_id": "brand-51",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd500003399ce089bef~tplv-resize:100:0.png",
+        "text": "阿尔法·罗密欧"
+      },
+      {
+        "brand_id": "brand-176",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/2f1e00007c6289f0792c~tplv-resize:100:0.png",
+        "text": "ARCFOX"
+      },
+      {
+        "brand_id": "brand-336",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/cad84db12a5d8f6cfb1cdbf880243bf7~tplv-resize:100:0.png",
+        "text": "AUXUN傲旋"
+      },
+      {
+        "brand_id": "brand-232",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/65de000034bac9473ebb~tplv-resize:100:0.png",
+        "text": "爱驰"
+      },
+      {
+        "brand_id": "brand-114",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd50000198aee2e4688~tplv-resize:100:0.png",
+        "text": "ALPINA"
+      },
+      {
+        "brand_id": "brand-211",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/47480000800eb20581b0~tplv-resize:100:0.png",
+        "text": "ABT"
+      },
+      {
+        "brand_id": "brand-113",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/2f1e00004430bdcb8ae4~tplv-resize:100:0.png",
+        "text": "AC Schnitzer"
+      },
+      {
+        "brand_id": "brand-178",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/ce0fbc9776ca83bf13d68a6dcc6bea14~tplv-resize:100:0.png",
+        "text": "艾康尼克"
+      },
+      {
+        "brand_id": "brand-281",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef00000dd502d00831a~tplv-resize:100:0.png",
+        "text": "Apollo"
+      },
+      {
+        "brand_id": "brand-177",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/65de00002847f933b329~tplv-resize:100:0.png",
+        "text": "Arash"
+      },
+      {
+        "brand_id": "brand-224",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/65de0000286dab2bf0dd~tplv-resize:100:0.png",
+        "text": "Aria"
+      },
+      {
+        "brand_id": "brand-256",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/bef100008e8c6272396c~tplv-resize:100:0.png",
+        "text": "AEV ROBOTICS"
+      },
+      {
+        "brand_id": "brand-312",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/bef8000039845c8b804e~tplv-resize:100:0.png",
+        "text": "Aurus"
+      },
+      {
+        "brand_id": "brand-314",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1767400003e551db594e5~tplv-resize:100:0.png",
+        "text": "Agile Automotive"
+      },
+      {
+        "brand_id": "brand-313",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/66b9b74e9bf243082402bb1239d3638e~tplv-resize:100:0.png",
+        "text": "ATS"
+      },
+      {
+        "brand_id": "brand-364",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/2a0cbdbffe78079b33a97ca4196425f0~tplv-resize:100:0.png",
+        "text": "Aspark"
+      }
+    ]
+  },
+  {
+    "bigLetter": "B",
+    "imgName": [
+      {
+        "brand_id": "brand-3",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd50000190229abeec8~tplv-resize:100:0.png",
+        "text": "奔驰"
+      },
+      {
+        "brand_id": "brand-4",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd5000018fab5bd782b~tplv-resize:100:0.png",
+        "text": "宝马"
+      },
+      {
+        "brand_id": "brand-9",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd5000018fc7c108922~tplv-resize:100:0.png",
+        "text": "本田"
+      },
+      {
+        "brand_id": "brand-12",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd5000018fefd5c26b7~tplv-resize:100:0.png",
+        "text": "别克"
+      },
+      {
+        "brand_id": "brand-16",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd5000018f0e7000aa7~tplv-resize:100:0.png",
+        "text": "比亚迪"
+      },
+      {
+        "brand_id": "brand-20",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd50000190122c26c84~tplv-resize:100:0.png",
+        "text": "保时捷"
+      },
+      {
+        "brand_id": "brand-81",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/2a6e43e23662e46d325575719e7c4b32~tplv-resize:100:0.png",
+        "text": "宝骏"
+      },
+      {
+        "brand_id": "brand-61",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd5000018fdcbf42fc1~tplv-resize:100:0.png",
+        "text": "标致"
+      },
+      {
+        "brand_id": "brand-47",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd5000018ff4dd8bd1d~tplv-resize:100:0.png",
+        "text": "宾利"
+      },
+      {
+        "brand_id": "brand-27",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/bef3000008d32ff8e0fe~tplv-resize:100:0.png",
+        "text": "奔腾"
+      },
+      {
+        "brand_id": "brand-52",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/bef500008770269b46cf~tplv-resize:100:0.png",
+        "text": "北京"
+      },
+      {
+        "brand_id": "brand-68",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef600002d0d70975ef4~tplv-resize:100:0.png",
+        "text": "北京汽车"
+      },
+      {
+        "brand_id": "brand-93",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/2f1e000033b81bb26304~tplv-resize:100:0.png",
+        "text": "北汽新能源"
+      },
+      {
+        "brand_id": "brand-78",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd500001924e92455cc~tplv-resize:100:0.png",
+        "text": "北汽制造"
+      },
+      {
+        "brand_id": "brand-60",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd5000018f60f10d679~tplv-resize:100:0.png",
+        "text": "北汽昌河"
+      },
+      {
+        "brand_id": "brand-94",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd500001959434c5686~tplv-resize:100:0.png",
+        "text": "北汽幻速"
+      },
+      {
+        "brand_id": "brand-69",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd50000192918f046a3~tplv-resize:100:0.png",
+        "text": "北汽威旺"
+      },
+      {
+        "brand_id": "brand-116",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd50000195501b6cd69~tplv-resize:100:0.png",
+        "text": "宝沃"
+      },
+      {
+        "brand_id": "brand-118",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/0e3a71ddca9e1b559b9fcf2af0b0d37a~tplv-resize:100:0.png",
+        "text": "巴博斯"
+      },
+      {
+        "brand_id": "brand-117",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd50000194609f381b5~tplv-resize:100:0.png",
+        "text": "比速汽车"
+      },
+      {
+        "brand_id": "brand-175",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd50000bce972d08a32~tplv-resize:100:0.png",
+        "text": "北汽道达"
+      },
+      {
+        "brand_id": "brand-334",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/9724a3e6a624e1b1be8976f1e04ab9a1~tplv-resize:100:0.png",
+        "text": "比德文汽车"
+      },
+      {
+        "brand_id": "brand-240",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/65de00007f76c67d636b~tplv-resize:100:0.png",
+        "text": "北京清行"
+      },
+      {
+        "brand_id": "brand-263",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/bef30000a90429bc3c83~tplv-resize:100:0.png",
+        "text": "博郡汽车"
+      },
+      {
+        "brand_id": "brand-82",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/9b130000688195431d5a~tplv-resize:100:0.png",
+        "text": "布加迪"
+      },
+      {
+        "brand_id": "brand-204",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/4747000043740e79def9~tplv-resize:100:0.png",
+        "text": "拜腾"
+      },
+      {
+        "brand_id": "brand-219",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/4748000081ab3c9f6482~tplv-resize:100:0.png",
+        "text": "宾尼法利纳"
+      },
+      {
+        "brand_id": "brand-254",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/b0eebdfad53d17e8106523324ac4bc32~tplv-resize:100:0.png",
+        "text": "宝腾汽车"
+      },
+      {
+        "brand_id": "brand-226",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/474800008e54d621fcc0~tplv-resize:100:0.png",
+        "text": "保斐利"
+      },
+      {
+        "brand_id": "brand-346",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/5a510ad1733716ada50ac7fe92bebb31~tplv-resize:100:0.png",
+        "text": "Bollinger"
+      },
+      {
+        "brand_id": "brand-270",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/bef20000d09fc5f2e00d~tplv-resize:100:0.png",
+        "text": "博世"
+      },
+      {
+        "brand_id": "brand-315",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef4000109df08e578a1~tplv-resize:100:0.png",
+        "text": "BAC"
+      }
+    ]
+  },
+  {
+    "bigLetter": "C",
+    "imgName": [
+      {
+        "brand_id": "brand-35",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/a256cd3dd412661fb6e6e416507f1431~tplv-resize:100:0.png",
+        "text": "长安"
+      },
+      {
+        "brand_id": "brand-119",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/bef5000000033b7cfb23~tplv-resize:100:0.png",
+        "text": "长安欧尚"
+      },
+      {
+        "brand_id": "brand-8",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd5000018efd5725196~tplv-resize:100:0.png",
+        "text": "长城"
+      },
+      {
+        "brand_id": "brand-171",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd500001996b5777d63~tplv-resize:100:0.png",
+        "text": "长安轻型车"
+      },
+      {
+        "brand_id": "brand-210",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/65de00000dde9a468155~tplv-resize:100:0.png",
+        "text": "长安跨越"
+      },
+      {
+        "brand_id": "brand-120",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd500001954c88b6a0d~tplv-resize:100:0.png",
+        "text": "成功汽车"
+      },
+      {
+        "brand_id": "brand-304",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef3000111803b970b0c~tplv-resize:100:0.png",
+        "text": "车驰汽车"
+      },
+      {
+        "brand_id": "brand-341",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/dce8069cbd866851b0e0a36643cf0ae2~tplv-resize:100:0.png",
+        "text": "Cupra"
+      },
+      {
+        "brand_id": "brand-233",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/65de0000361bd47fcb88~tplv-resize:100:0.png",
+        "text": "刺猬汽车"
+      },
+      {
+        "brand_id": "brand-227",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/4747000090382900ac48~tplv-resize:100:0.png",
+        "text": "昶洧"
+      },
+      {
+        "brand_id": "brand-180",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/65de00002abcda9d328c~tplv-resize:100:0.png",
+        "text": "长江·EV"
+      },
+      {
+        "brand_id": "brand-217",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/47480000810bf3c20b18~tplv-resize:100:0.png",
+        "text": "Corbellati"
+      },
+      {
+        "brand_id": "brand-316",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef4000109bf34207f54~tplv-resize:100:0.png",
+        "text": "Conquest"
+      },
+      {
+        "brand_id": "brand-228",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/47470000909e072e549d~tplv-resize:100:0.png",
+        "text": "Caterham"
+      },
+      {
+        "brand_id": "brand-345",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/5d953ec38128331ad2960c4e4f7552be~tplv-resize:100:0.png",
+        "text": "Canoo"
+      }
+    ]
+  },
+  {
+    "bigLetter": "D",
+    "imgName": [
+      {
+        "brand_id": "brand-1",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/61aa96e2b0a569f10a3cf21f2e09634c~tplv-resize:100:0.png",
+        "text": "大众"
+      },
+      {
+        "brand_id": "brand-70",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd50000192ebd868bcf~tplv-resize:100:0.png",
+        "text": "东风风行"
+      },
+      {
+        "brand_id": "brand-37",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd50000195e28fd8920~tplv-resize:100:0.png",
+        "text": "东风风神"
+      },
+      {
+        "brand_id": "brand-54",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd500001907750fd5a0~tplv-resize:100:0.png",
+        "text": "道奇"
+      },
+      {
+        "brand_id": "brand-55",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd500001930d2913b25~tplv-resize:100:0.png",
+        "text": "DS"
+      },
+      {
+        "brand_id": "brand-77",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd5000018f298e666a4~tplv-resize:100:0.png",
+        "text": "东南"
+      },
+      {
+        "brand_id": "brand-95",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd5000019481f667784~tplv-resize:100:0.png",
+        "text": "东风风光"
+      },
+      {
+        "brand_id": "brand-79",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd500001947859c1aff~tplv-resize:100:0.png",
+        "text": "东风小康"
+      },
+      {
+        "brand_id": "brand-246",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/bef3000001433ca927d9~tplv-resize:100:0.png",
+        "text": "大乘汽车"
+      },
+      {
+        "brand_id": "brand-197",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/888300010604b6ff9720~tplv-resize:100:0.png",
+        "text": "电咖"
+      },
+      {
+        "brand_id": "brand-91",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd500001908af8052c5~tplv-resize:100:0.png",
+        "text": "东风"
+      },
+      {
+        "brand_id": "brand-92",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd500001949f28114f2~tplv-resize:100:0.png",
+        "text": "东风风度"
+      },
+      {
+        "brand_id": "brand-230",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/9b130000986279690a44~tplv-resize:100:0.png",
+        "text": "东风·瑞泰特"
+      },
+      {
+        "brand_id": "brand-121",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/9b130000986c343e2d96~tplv-resize:100:0.png",
+        "text": "大发"
+      },
+      {
+        "brand_id": "brand-183",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/65de00002846de600b13~tplv-resize:100:0.png",
+        "text": "Dacia"
+      },
+      {
+        "brand_id": "brand-291",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/9b13000167fd15c495fd~tplv-resize:100:0.png",
+        "text": "Datsun"
+      },
+      {
+        "brand_id": "brand-337",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/a083eb2b89a98a1836e31f07a67b1b8b~tplv-resize:100:0.png",
+        "text": "De Tomaso"
+      },
+      {
+        "brand_id": "brand-294",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/bef30000decbd00a0c88~tplv-resize:100:0.png",
+        "text": "Donkervoort"
+      },
+      {
+        "brand_id": "brand-257",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/9b1300011e451ab558e5~tplv-resize:100:0.png",
+        "text": "Dianchè"
+      },
+      {
+        "brand_id": "brand-353",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/9dc950a2606c155fb81ba07af5bca8f6~tplv-resize:100:0.png",
+        "text": "Drako"
+      },
+      {
+        "brand_id": "brand-286",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef00000deb0e65be9e7~tplv-resize:100:0.png",
+        "text": "大迪汽车"
+      }
+    ]
+  },
+  {
+    "bigLetter": "E",
+    "imgName": [
+      {
+        "brand_id": "brand-293",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/bef30000deca5ac0d6be~tplv-resize:100:0.png",
+        "text": "Elemental"
+      }
+    ]
+  },
+  {
+    "bigLetter": "F",
+    "imgName": [
+      {
+        "brand_id": "brand-5",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/c8eb9d15ac7e99904711b5ffe5538777~tplv-resize:100:0.png",
+        "text": "丰田"
+      },
+      {
+        "brand_id": "brand-7",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd50000190c8e84e016~tplv-resize:100:0.png",
+        "text": "福特"
+      },
+      {
+        "brand_id": "brand-44",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd50000196e63c3f0a9~tplv-resize:100:0.png",
+        "text": "法拉利"
+      },
+      {
+        "brand_id": "brand-57",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd50000190de67606be~tplv-resize:100:0.png",
+        "text": "福田"
+      },
+      {
+        "brand_id": "brand-56",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd500001909a3e9e3e5~tplv-resize:100:0.png",
+        "text": "菲亚特"
+      },
+      {
+        "brand_id": "brand-122",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd5000018e96c011b3e~tplv-resize:100:0.png",
+        "text": "福迪"
+      },
+      {
+        "brand_id": "brand-123",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd50000195b51afff9b~tplv-resize:100:0.png",
+        "text": "福汽启腾"
+      },
+      {
+        "brand_id": "brand-205",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/4747000044a7d64c04c8~tplv-resize:100:0.png",
+        "text": "Fisker"
+      },
+      {
+        "brand_id": "brand-229",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/65de00002abeff203e01~tplv-resize:100:0.png",
+        "text": "Faraday Future"
+      },
+      {
+        "brand_id": "brand-317",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef600003f94acdafaa5~tplv-resize:100:0.png",
+        "text": "FM Auto"
+      },
+      {
+        "brand_id": "brand-284",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/beef0000dee3d6905bf4~tplv-resize:100:0.png",
+        "text": "弗那萨利"
+      }
+    ]
+  },
+  {
+    "bigLetter": "G",
+    "imgName": [
+      {
+        "brand_id": "brand-40",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd500001962dd0f021d~tplv-resize:100:0.png",
+        "text": "广汽传祺"
+      },
+      {
+        "brand_id": "brand-242",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/65de0000deae94b50caf~tplv-resize:100:0.png",
+        "text": "广汽新能源"
+      },
+      {
+        "brand_id": "brand-58",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd5000019316d97e09f~tplv-resize:100:0.png",
+        "text": "观致"
+      },
+      {
+        "brand_id": "brand-237",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/b0d95358f37d5596c9d52debed2d421c~tplv-resize:100:0.png",
+        "text": "广汽集团"
+      },
+      {
+        "brand_id": "brand-96",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd5000019662272af82~tplv-resize:100:0.png",
+        "text": "GMC"
+      },
+      {
+        "brand_id": "brand-335",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/a06a0ff9f8506674943e0f6827564008~tplv-resize:100:0.png",
+        "text": "广通客车"
+      },
+      {
+        "brand_id": "brand-191",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/2f1e0001033811b73f6d~tplv-resize:100:0.png",
+        "text": "国金汽车"
+      },
+      {
+        "brand_id": "brand-97",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd5000018e7ab7ab4e6~tplv-resize:100:0.png",
+        "text": "广汽吉奥"
+      },
+      {
+        "brand_id": "brand-266",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef400004c8f97629697~tplv-resize:100:0.png",
+        "text": "国机智骏"
+      },
+      {
+        "brand_id": "brand-124",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd50000198254f70462~tplv-resize:100:0.png",
+        "text": "光冈"
+      },
+      {
+        "brand_id": "brand-249",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/bef600003d900595b948~tplv-resize:100:0.png",
+        "text": "高合Hiphi"
+      },
+      {
+        "brand_id": "brand-268",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/bef4000050b26698b6e3~tplv-resize:100:0.png",
+        "text": "GYON"
+      },
+      {
+        "brand_id": "brand-267",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/bef30000c83c70b406b0~tplv-resize:100:0.png",
+        "text": "GFG Style"
+      },
+      {
+        "brand_id": "brand-318",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef4000109e00267cd3c~tplv-resize:100:0.png",
+        "text": "Ginetta"
+      },
+      {
+        "brand_id": "brand-321",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/bef500009bb2739ba9f8~tplv-resize:100:0.png",
+        "text": "GTA"
+      },
+      {
+        "brand_id": "brand-271",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef10000cf9e1268521a~tplv-resize:100:0.png",
+        "text": "格罗夫"
+      },
+      {
+        "brand_id": "brand-342",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/ee9a19f14ef172a5d896cbd5f3c49ca6~tplv-resize:100:0.png",
+        "text": "谷歌"
+      },
+      {
+        "brand_id": "brand-320",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/f6c8cde4ca1b32a091b45cf27b26a56a~tplv-resize:100:0.png",
+        "text": "GLM"
+      }
+    ]
+  },
+  {
+    "bigLetter": "H",
+    "imgName": [
+      {
+        "brand_id": "brand-17",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/9b130000f0d049b6783a~tplv-resize:100:0.png",
+        "text": "哈弗"
+      },
+      {
+        "brand_id": "brand-59",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd500002636d93efd87~tplv-resize:100:0.png",
+        "text": "红旗"
+      },
+      {
+        "brand_id": "brand-53",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd5000027eae9a44e39~tplv-resize:100:0.png",
+        "text": "海马"
+      },
+      {
+        "brand_id": "brand-126",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd50000193fc452bc22~tplv-resize:100:0.png",
+        "text": "汉腾汽车"
+      },
+      {
+        "brand_id": "brand-72",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd5000018eed57e9809~tplv-resize:100:0.png",
+        "text": "华泰"
+      },
+      {
+        "brand_id": "brand-99",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd500002a2c47133914~tplv-resize:100:0.png",
+        "text": "华泰新能源"
+      },
+      {
+        "brand_id": "brand-131",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/65de000103b94c50a216~tplv-resize:100:0.png",
+        "text": "华颂"
+      },
+      {
+        "brand_id": "brand-132",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd50000190f6f82a03f~tplv-resize:100:0.png",
+        "text": "黄海"
+      },
+      {
+        "brand_id": "brand-125",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd50000195d34f6026b~tplv-resize:100:0.png",
+        "text": "海格"
+      },
+      {
+        "brand_id": "brand-127",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd500001983c46e21a2~tplv-resize:100:0.png",
+        "text": "恒天"
+      },
+      {
+        "brand_id": "brand-128",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd500001953012c8cb0~tplv-resize:100:0.png",
+        "text": "华凯"
+      },
+      {
+        "brand_id": "brand-184",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/39f5000028bc5c72b9b2~tplv-resize:100:0.png",
+        "text": "华骐"
+      },
+      {
+        "brand_id": "brand-241",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/888300004c7d4ae6906e~tplv-resize:100:0.png",
+        "text": "红星汽车"
+      },
+      {
+        "brand_id": "brand-199",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/1f5e4e807a24a6355201bea736d3baf7~tplv-resize:100:0.png",
+        "text": "合众汽车"
+      },
+      {
+        "brand_id": "brand-343",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/959e32fe03bff73623ff773654bcae30~tplv-resize:100:0.png",
+        "text": "汉龙汽车"
+      },
+      {
+        "brand_id": "brand-220",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/4747000082d9ce3ce96d~tplv-resize:100:0.png",
+        "text": "Hennessey"
+      },
+      {
+        "brand_id": "brand-278",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/beef0000dc94a0086611~tplv-resize:100:0.png",
+        "text": "霍顿"
+      },
+      {
+        "brand_id": "brand-322",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/66c32608ef3981ee1126ae82634ae1d8~tplv-resize:100:0.png",
+        "text": "Hispano Suiza"
+      },
+      {
+        "brand_id": "brand-303",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/bef400008aae4e3cc649~tplv-resize:100:0.png",
+        "text": "合创"
+      }
+    ]
+  },
+  {
+    "bigLetter": "I",
+    "imgName": [
+      {
+        "brand_id": "brand-165",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/39f5000028bdbfac48ab~tplv-resize:100:0.png",
+        "text": "Icona"
+      },
+      {
+        "brand_id": "brand-223",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/474700008cb2e1d6f62a~tplv-resize:100:0.png",
+        "text": "Italdesign"
+      },
+      {
+        "brand_id": "brand-323",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/bef8000041d019efafa4~tplv-resize:100:0.png",
+        "text": "Inferno"
+      }
+    ]
+  },
+  {
+    "bigLetter": "J",
+    "imgName": [
+      {
+        "brand_id": "brand-73",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/bef40000170177cb5597~tplv-resize:100:0.png",
+        "text": "吉利汽车"
+      },
+      {
+        "brand_id": "brand-264",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/beef0000c8bb153725f0~tplv-resize:100:0.png",
+        "text": "几何汽车"
+      },
+      {
+        "brand_id": "brand-14",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd500001910668c419f~tplv-resize:100:0.png",
+        "text": "Jeep"
+      },
+      {
+        "brand_id": "brand-31",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd5000019117e61577d~tplv-resize:100:0.png",
+        "text": "捷豹"
+      },
+      {
+        "brand_id": "brand-32",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd50000193c63a19315~tplv-resize:100:0.png",
+        "text": "江淮"
+      },
+      {
+        "brand_id": "brand-209",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/4747000054e2156d3d90~tplv-resize:100:0.png",
+        "text": "捷途"
+      },
+      {
+        "brand_id": "brand-260",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/bef30000988668b46156~tplv-resize:100:0.png",
+        "text": "捷达"
+      },
+      {
+        "brand_id": "brand-74",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/bef30000dbd33bf789b2~tplv-resize:100:0.png",
+        "text": "金杯"
+      },
+      {
+        "brand_id": "brand-100",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd500001985d5b1c46c~tplv-resize:100:0.png",
+        "text": "江铃"
+      },
+      {
+        "brand_id": "brand-136",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd500003398a8d3ead7~tplv-resize:100:0.png",
+        "text": "江铃集团新能源"
+      },
+      {
+        "brand_id": "brand-190",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/39f5000028be71a0ff10~tplv-resize:100:0.png",
+        "text": "君马汽车"
+      },
+      {
+        "brand_id": "brand-140",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd5000019570a5534e6~tplv-resize:100:0.png",
+        "text": "金龙"
+      },
+      {
+        "brand_id": "brand-133",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/2f1e0001033a5f6cac75~tplv-resize:100:0.png",
+        "text": "金旅"
+      },
+      {
+        "brand_id": "brand-134",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd500001927ed57c5df~tplv-resize:100:0.png",
+        "text": "九龙"
+      },
+      {
+        "brand_id": "brand-258",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/9b13000117cd2b22e0b0~tplv-resize:100:0.png",
+        "text": "钧天汽车"
+      },
+      {
+        "brand_id": "brand-273",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/9b1300015b0824573332~tplv-resize:100:0.png",
+        "text": "捷尼赛思"
+      },
+      {
+        "brand_id": "brand-354",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/2b3cf6c701aaf57386efc40b749ff62d~tplv-resize:100:0.png",
+        "text": "Jannarelly"
+      }
+    ]
+  },
+  {
+    "bigLetter": "K",
+    "imgName": [
+      {
+        "brand_id": "brand-30",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd500001914fe2fa856~tplv-resize:100:0.png",
+        "text": "凯迪拉克"
+      },
+      {
+        "brand_id": "brand-84",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd5000035ea9ecdd88f~tplv-resize:100:0.png",
+        "text": "克莱斯勒"
+      },
+      {
+        "brand_id": "brand-142",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd50000194fc05219d9~tplv-resize:100:0.png",
+        "text": "凯翼"
+      },
+      {
+        "brand_id": "brand-139",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd5000018f54135e144~tplv-resize:100:0.png",
+        "text": "开瑞"
+      },
+      {
+        "brand_id": "brand-138",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd50000195093b5ff3f~tplv-resize:100:0.png",
+        "text": "卡威"
+      },
+      {
+        "brand_id": "brand-137",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/2f1e00010339d1172671~tplv-resize:100:0.png",
+        "text": "卡升"
+      },
+      {
+        "brand_id": "brand-141",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd50000bd11c3dd8eee~tplv-resize:100:0.png",
+        "text": "KTM"
+      },
+      {
+        "brand_id": "brand-148",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef00000d4def4d6bdb9~tplv-resize:100:0.png",
+        "text": "开沃汽车"
+      },
+      {
+        "brand_id": "brand-135",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd5000019452d414df9~tplv-resize:100:0.png",
+        "text": "卡尔森"
+      },
+      {
+        "brand_id": "brand-259",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/beef0000a6632eb07a96~tplv-resize:100:0.png",
+        "text": "开云汽车"
+      },
+      {
+        "brand_id": "brand-83",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/474700006e232dd40c11~tplv-resize:100:0.png",
+        "text": "科尼赛克"
+      },
+      {
+        "brand_id": "brand-253",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef000004d45481a7aea~tplv-resize:100:0.png",
+        "text": "Karma"
+      },
+      {
+        "brand_id": "brand-287",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/9b13000167ed251f06fb~tplv-resize:100:0.png",
+        "text": "凯佰赫"
+      },
+      {
+        "brand_id": "brand-350",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/d3759d35237b53f31148b6ec6c79087a~tplv-resize:100:0.png",
+        "text": "Karlmann"
+      },
+      {
+        "brand_id": "brand-355",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/598d62ef19748163ce877059bf5c1eb1~tplv-resize:100:0.png",
+        "text": "开利"
+      }
+    ]
+  },
+  {
+    "bigLetter": "L",
+    "imgName": [
+      {
+        "brand_id": "brand-22",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd50000191995f226c1~tplv-resize:100:0.png",
+        "text": "雷克萨斯"
+      },
+      {
+        "brand_id": "brand-19",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd50000191e2536da6f~tplv-resize:100:0.png",
+        "text": "路虎"
+      },
+      {
+        "brand_id": "brand-174",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/47400000482df441cc19~tplv-resize:100:0.png",
+        "text": "领克"
+      },
+      {
+        "brand_id": "brand-62",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/888300005ae776ac0daf~tplv-resize:100:0.png",
+        "text": "林肯"
+      },
+      {
+        "brand_id": "brand-46",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd50000191ae099ea97~tplv-resize:100:0.png",
+        "text": "雷诺"
+      },
+      {
+        "brand_id": "brand-41",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd5000019181420c6f9~tplv-resize:100:0.png",
+        "text": "劳斯莱斯"
+      },
+      {
+        "brand_id": "brand-42",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd50000191738275961~tplv-resize:100:0.png",
+        "text": "兰博基尼"
+      },
+      {
+        "brand_id": "brand-202",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/9b13000099ca83641c2e~tplv-resize:100:0.png",
+        "text": "理想汽车"
+      },
+      {
+        "brand_id": "brand-50",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd50000191d08d0c8e0~tplv-resize:100:0.png",
+        "text": "铃木"
+      },
+      {
+        "brand_id": "brand-207",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/47400000755caf06b6a5~tplv-resize:100:0.png",
+        "text": "零跑汽车"
+      },
+      {
+        "brand_id": "brand-76",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef00000cc77dc24f009~tplv-resize:100:0.png",
+        "text": "猎豹汽车"
+      },
+      {
+        "brand_id": "brand-85",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/446dd05763ee5820fbf54846e701f918~tplv-resize:100:0.png",
+        "text": "路特斯"
+      },
+      {
+        "brand_id": "brand-101",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd5000018ec129847b9~tplv-resize:100:0.png",
+        "text": "力帆汽车"
+      },
+      {
+        "brand_id": "brand-102",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd50000196418b29ae3~tplv-resize:100:0.png",
+        "text": "陆风"
+      },
+      {
+        "brand_id": "brand-111",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd5000019603d3ea3cc~tplv-resize:100:0.png",
+        "text": "理念"
+      },
+      {
+        "brand_id": "brand-282",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/9b1300016582d5895c16~tplv-resize:100:0.png",
+        "text": "雷丁"
+      },
+      {
+        "brand_id": "brand-145",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/39f5000015d4d82f3388~tplv-resize:100:0.png",
+        "text": "Lorinser"
+      },
+      {
+        "brand_id": "brand-248",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/bef200001a1085e6a188~tplv-resize:100:0.png",
+        "text": "罗夫哈特"
+      },
+      {
+        "brand_id": "brand-247",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/bef3000008d765611d84~tplv-resize:100:0.png",
+        "text": "领途汽车"
+      },
+      {
+        "brand_id": "brand-146",
+        "imgSrc": "//p3.pstatp.com/large/w240/1dd50000bb31b6a1adb8",
+        "text": "陆地方舟"
+      },
+      {
+        "brand_id": "brand-192",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/39f500002b5621ca970b~tplv-resize:100:0.png",
+        "text": "拉达"
+      },
+      {
+        "brand_id": "brand-298",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/bef30000e1576de19491~tplv-resize:100:0.png",
+        "text": "LeSEE"
+      },
+      {
+        "brand_id": "brand-212",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/3669dd9f1396d6cfa7b47c1b9653b226~tplv-resize:100:0.png",
+        "text": "绿驰"
+      },
+      {
+        "brand_id": "brand-301",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef20000e667220e96d7~tplv-resize:100:0.png",
+        "text": "雷诺三星"
+      },
+      {
+        "brand_id": "brand-214",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/beef0000a49da39c4ce2~tplv-resize:100:0.png",
+        "text": "拉共达"
+      },
+      {
+        "brand_id": "brand-309",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/42e3322e83063327a572a9ede50e23f8~tplv-resize:100:0.png",
+        "text": "领志"
+      },
+      {
+        "brand_id": "brand-324",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/a75ba342a011593bf5b0269dce8e54dc~tplv-resize:100:0.png",
+        "text": "LEVC"
+      },
+      {
+        "brand_id": "brand-325",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/c5c31892ebf1d6aab7e6d3e17a925871~tplv-resize:100:0.png",
+        "text": "Lucid"
+      }
+    ]
+  },
+  {
+    "bigLetter": "M",
+    "imgName": [
+      {
+        "brand_id": "brand-15",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd500001920f34d8b85~tplv-resize:100:0.png",
+        "text": "马自达"
+      },
+      {
+        "brand_id": "brand-34",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd50000191f8deebd7c~tplv-resize:100:0.png",
+        "text": "名爵"
+      },
+      {
+        "brand_id": "brand-45",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd50000192118e58662~tplv-resize:100:0.png",
+        "text": "玛莎拉蒂"
+      },
+      {
+        "brand_id": "brand-65",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/9b13000027addd103baf~tplv-resize:100:0.png",
+        "text": "MINI"
+      },
+      {
+        "brand_id": "brand-86",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd5000019440398823a~tplv-resize:100:0.png",
+        "text": "迈凯伦"
+      },
+      {
+        "brand_id": "brand-349",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/58da571e60daf824166e0e3d414a6056~tplv-resize:100:0.png",
+        "text": "迈迈"
+      },
+      {
+        "brand_id": "brand-272",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef20000d37d8832ef37~tplv-resize:100:0.png",
+        "text": "迈莎锐"
+      },
+      {
+        "brand_id": "brand-147",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd500001932e5f58ff0~tplv-resize:100:0.png",
+        "text": "摩根"
+      },
+      {
+        "brand_id": "brand-356",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/96e91f0c534b64798786f983f379c69f~tplv-resize:100:0.png",
+        "text": "敏安汽车"
+      },
+      {
+        "brand_id": "brand-296",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/3106291595f7e9f1f25ac50938eb0b58~tplv-resize:100:0.png",
+        "text": "Mazzanti"
+      },
+      {
+        "brand_id": "brand-261",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/bef00000a151fd4b8064~tplv-resize:100:0.png",
+        "text": "Mole"
+      },
+      {
+        "brand_id": "brand-297",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/bef30000e0673504e19c~tplv-resize:100:0.png",
+        "text": "MELKUS"
+      },
+      {
+        "brand_id": "brand-328",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/bef7000043707b7bbb66~tplv-resize:100:0.png",
+        "text": "米高"
+      },
+      {
+        "brand_id": "brand-327",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/bef500009c623ffd24e9~tplv-resize:100:0.png",
+        "text": "MAGNA"
+      },
+      {
+        "brand_id": "brand-351",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/6970896fefc4b2cdccbae71f45f5b755~tplv-resize:100:0.png",
+        "text": "Mahindra"
+      }
+    ]
+  },
+  {
+    "bigLetter": "N",
+    "imgName": [
+      {
+        "brand_id": "brand-87",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd5000019288fe8819b~tplv-resize:100:0.png",
+        "text": "纳智捷"
+      },
+      {
+        "brand_id": "brand-200",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/47480000255e4b424a5b~tplv-resize:100:0.png",
+        "text": "NEVS国能汽车"
+      },
+      {
+        "brand_id": "brand-299",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/bef20000e6642647a46d~tplv-resize:100:0.png",
+        "text": "nanoFLOWCELL"
+      },
+      {
+        "brand_id": "brand-363",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/eed1f04995cc3650208a845fdac18617~tplv-resize:100:0.png",
+        "text": "Neuron EV"
+      }
+    ]
+  },
+  {
+    "bigLetter": "O",
+    "imgName": [
+      {
+        "brand_id": "brand-38",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/9b130000429b21f4fc90~tplv-resize:100:0.png",
+        "text": "讴歌"
+      },
+      {
+        "brand_id": "brand-238",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/47480000ab31605cf6fa~tplv-resize:100:0.png",
+        "text": "欧拉"
+      },
+      {
+        "brand_id": "brand-357",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/592f7bbf8295c9ecb3b73b2800ff27eb~tplv-resize:100:0.png",
+        "text": "欧联"
+      }
+    ]
+  },
+  {
+    "bigLetter": "P",
+    "imgName": [
+      {
+        "brand_id": "brand-196",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/40670000d8c7df2767ad~tplv-resize:100:0.png",
+        "text": "Polestar极星"
+      },
+      {
+        "brand_id": "brand-88",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd50000197952065791~tplv-resize:100:0.png",
+        "text": "帕加尼"
+      },
+      {
+        "brand_id": "brand-280",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/bef400006030a99c0841~tplv-resize:100:0.png",
+        "text": "佩奇奥"
+      },
+      {
+        "brand_id": "brand-329",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/e546338daf529d7f020ea64f13c080ac~tplv-resize:100:0.png",
+        "text": "Puritalia"
+      },
+      {
+        "brand_id": "brand-262",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef10000a15885a16ba8~tplv-resize:100:0.png",
+        "text": "Piëch"
+      }
+    ]
+  },
+  {
+    "bigLetter": "Q",
+    "imgName": [
+      {
+        "brand_id": "brand-13",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd5000019787f4378d5~tplv-resize:100:0.png",
+        "text": "起亚"
+      },
+      {
+        "brand_id": "brand-18",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd5000018f4728b7ea3~tplv-resize:100:0.png",
+        "text": "奇瑞"
+      },
+      {
+        "brand_id": "brand-109",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/40670000dda8ea5b129e~tplv-resize:100:0.png",
+        "text": "启辰"
+      },
+      {
+        "brand_id": "brand-149",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/9b1300000f98f6dea6d6~tplv-resize:100:0.png",
+        "text": "前途"
+      },
+      {
+        "brand_id": "brand-143",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/bef300001f6256e41c4e~tplv-resize:100:0.png",
+        "text": "全球鹰"
+      },
+      {
+        "brand_id": "brand-236",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/65de000043a2a9557872~tplv-resize:100:0.png",
+        "text": "乔治·巴顿"
+      },
+      {
+        "brand_id": "brand-203",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/47470000349ca8dc02e5~tplv-resize:100:0.png",
+        "text": "庆铃汽车"
+      },
+      {
+        "brand_id": "brand-104",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd50000194ab9e213da~tplv-resize:100:0.png",
+        "text": "骐铃汽车"
+      },
+      {
+        "brand_id": "brand-225",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/474700008f18b85b366f~tplv-resize:100:0.png",
+        "text": "奇点汽车"
+      },
+      {
+        "brand_id": "brand-265",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef10000c82a18615e24~tplv-resize:100:0.png",
+        "text": "清源汽车"
+      }
+    ]
+  },
+  {
+    "bigLetter": "R",
+    "imgName": [
+      {
+        "brand_id": "brand-10",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd5000019779bf8dfb2~tplv-resize:100:0.png",
+        "text": "日产"
+      },
+      {
+        "brand_id": "brand-36",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd5000019637ce92f50~tplv-resize:100:0.png",
+        "text": "荣威"
+      },
+      {
+        "brand_id": "brand-198",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/4748000024170813176b~tplv-resize:100:0.png",
+        "text": "瑞驰"
+      },
+      {
+        "brand_id": "brand-244",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/888300006ad3422b17d3~tplv-resize:100:0.png",
+        "text": "容大智造"
+      },
+      {
+        "brand_id": "brand-150",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/2f1e0001033cbed93e8d~tplv-resize:100:0.png",
+        "text": "如虎"
+      },
+      {
+        "brand_id": "brand-292",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/acbdce3c6a50a2ac24d49e13b9c6e931~tplv-resize:100:0.png",
+        "text": "Rezvani"
+      },
+      {
+        "brand_id": "brand-213",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/47470000819a18395b62~tplv-resize:100:0.png",
+        "text": "Rimac"
+      },
+      {
+        "brand_id": "brand-279",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/bef10000dc18b00aef45~tplv-resize:100:0.png",
+        "text": "Rinspeed"
+      },
+      {
+        "brand_id": "brand-252",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/bef1000047bbe86dc94f~tplv-resize:100:0.png",
+        "text": "RIVIAN"
+      },
+      {
+        "brand_id": "brand-330",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/176750000413bd3b69e0c~tplv-resize:100:0.png",
+        "text": "RENOVO"
+      },
+      {
+        "brand_id": "brand-358",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/f6390d6846b9cbff47dfe9866905e006~tplv-resize:100:0.png",
+        "text": "Radical"
+      }
+    ]
+  },
+  {
+    "bigLetter": "S",
+    "imgName": [
+      {
+        "brand_id": "brand-23",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/47480000d23e5f7c9d05~tplv-resize:100:0.png",
+        "text": "斯柯达"
+      },
+      {
+        "brand_id": "brand-108",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/00dc924de414edc53779b408f13df233~tplv-resize:100:0.png",
+        "text": "上汽MAXUS"
+      },
+      {
+        "brand_id": "brand-26",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd50000197600e75bea~tplv-resize:100:0.png",
+        "text": "三菱"
+      },
+      {
+        "brand_id": "brand-33",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd500001973c71d7e93~tplv-resize:100:0.png",
+        "text": "斯巴鲁"
+      },
+      {
+        "brand_id": "brand-48",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd50000191347772b96~tplv-resize:100:0.png",
+        "text": "smart"
+      },
+      {
+        "brand_id": "brand-157",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd50000194cbfbc1d94~tplv-resize:100:0.png",
+        "text": "SWM斯威汽车"
+      },
+      {
+        "brand_id": "brand-163",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd5000019747cc29a9c~tplv-resize:100:0.png",
+        "text": "双龙"
+      },
+      {
+        "brand_id": "brand-193",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/39f50001b5d241d283d7~tplv-resize:100:0.png",
+        "text": "SRM鑫源"
+      },
+      {
+        "brand_id": "brand-235",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/47480000a0f23c8fe929~tplv-resize:100:0.png",
+        "text": "思皓"
+      },
+      {
+        "brand_id": "brand-105",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd50000192da1c0aa70~tplv-resize:100:0.png",
+        "text": "思铭"
+      },
+      {
+        "brand_id": "brand-153",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/2f1e0001033dc8a4dcf6~tplv-resize:100:0.png",
+        "text": "陕汽通家"
+      },
+      {
+        "brand_id": "brand-365",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/0dd829e1df011afb07813d2fc34bb75c~tplv-resize:100:0.png",
+        "text": "上喆汽车"
+      },
+      {
+        "brand_id": "brand-231",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/bef00000cd6a47661121~tplv-resize:100:0.png",
+        "text": "SERES"
+      },
+      {
+        "brand_id": "brand-152",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/497f295f7475db8e1d0abf99bace13fb~tplv-resize:100:0.png",
+        "text": "赛麟"
+      },
+      {
+        "brand_id": "brand-275",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef400005bf31099ea17~tplv-resize:100:0.png",
+        "text": "Scion"
+      },
+      {
+        "brand_id": "brand-338",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/e438d9783e57829dabd218f18650c25d~tplv-resize:100:0.png",
+        "text": "Sono Motors"
+      },
+      {
+        "brand_id": "brand-359",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/e55fdf29937f61a6b2f3b3dd6b6fdc7c~tplv-resize:100:0.png",
+        "text": "Share2Drive"
+      },
+      {
+        "brand_id": "brand-360",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/cd0e1047f4c55336d4001b283c8d68f2~tplv-resize:100:0.png",
+        "text": "SIN CARS"
+      }
+    ]
+  },
+  {
+    "bigLetter": "T",
+    "imgName": [
+      {
+        "brand_id": "brand-63",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd5000035ef87eab6a5~tplv-resize:100:0.png",
+        "text": "特斯拉"
+      },
+      {
+        "brand_id": "brand-159",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/20ec91592b09ece5684e5db7ca842905~tplv-resize:100:0.png",
+        "text": "腾势"
+      },
+      {
+        "brand_id": "brand-250",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/bef20000d7ffdd024e1a~tplv-resize:100:0.png",
+        "text": "天际汽车"
+      },
+      {
+        "brand_id": "brand-216",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/65de00001b46314bb1dd~tplv-resize:100:0.png",
+        "text": "塔塔"
+      },
+      {
+        "brand_id": "brand-221",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/65de0000258497c7ca66~tplv-resize:100:0.png",
+        "text": "泰克鲁斯·腾风"
+      },
+      {
+        "brand_id": "brand-285",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/bef400006193eb293e11~tplv-resize:100:0.png",
+        "text": "TVR"
+      },
+      {
+        "brand_id": "brand-305",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/de66a1199a338207cbbef91b0b3eaa36~tplv-resize:100:0.png",
+        "text": "Tramontana"
+      },
+      {
+        "brand_id": "brand-361",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/aa72ce4ba6781e4369ad122395309007~tplv-resize:100:0.png",
+        "text": "TOROIDION"
+      }
+    ]
+  },
+  {
+    "bigLetter": "U",
+    "imgName": [
+      {
+        "brand_id": "brand-339",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/0844359269bd043dd9a0b63bf9e000d1~tplv-resize:100:0.png",
+        "text": "Ultima"
+      },
+      {
+        "brand_id": "brand-348",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/e5840383b8e02cf8c500f42f354aaf9e~tplv-resize:100:0.png",
+        "text": "Uniti"
+      }
+    ]
+  },
+  {
+    "bigLetter": "V",
+    "imgName": [
+      {
+        "brand_id": "brand-289",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef00000dfbe34d99eaa~tplv-resize:100:0.png",
+        "text": "Venturi"
+      },
+      {
+        "brand_id": "brand-300",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/bef00000e406f2085107~tplv-resize:100:0.png",
+        "text": "Vinfast"
+      },
+      {
+        "brand_id": "brand-288",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/9b13000167efb96a0bf6~tplv-resize:100:0.png",
+        "text": "VLF Automotive"
+      },
+      {
+        "brand_id": "brand-362",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/4550695f081ccff630a298cce56d63a4~tplv-resize:100:0.png",
+        "text": "Vanda Electric"
+      }
+    ]
+  },
+  {
+    "bigLetter": "W",
+    "imgName": [
+      {
+        "brand_id": "brand-24",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/47480000350acc3ee9ba~tplv-resize:100:0.png",
+        "text": "沃尔沃"
+      },
+      {
+        "brand_id": "brand-39",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd500001961657e6e41~tplv-resize:100:0.png",
+        "text": "五菱汽车"
+      },
+      {
+        "brand_id": "brand-66",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd50000193d695f30f9~tplv-resize:100:0.png",
+        "text": "WEY"
+      },
+      {
+        "brand_id": "brand-112",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd500005c0df707d6d2~tplv-resize:100:0.png",
+        "text": "蔚来"
+      },
+      {
+        "brand_id": "brand-185",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/474000004e55fee34c51~tplv-resize:100:0.png",
+        "text": "威马汽车"
+      },
+      {
+        "brand_id": "brand-106",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd500001933871b44f8~tplv-resize:100:0.png",
+        "text": "五十铃"
+      },
+      {
+        "brand_id": "brand-160",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd50000197f20ca7824~tplv-resize:100:0.png",
+        "text": "威麟"
+      },
+      {
+        "brand_id": "brand-162",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/e8cd81aa5dde1c45ef9989672cb627e1~tplv-resize:100:0.png",
+        "text": "潍柴汽车"
+      },
+      {
+        "brand_id": "brand-161",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd500001971dfc9a31e~tplv-resize:100:0.png",
+        "text": "威兹曼"
+      },
+      {
+        "brand_id": "brand-274",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/bef00000d496605b8756~tplv-resize:100:0.png",
+        "text": "沃克斯豪尔"
+      },
+      {
+        "brand_id": "brand-222",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/65de000025d6460a8f01~tplv-resize:100:0.png",
+        "text": "W Motors"
+      }
+    ]
+  },
+  {
+    "bigLetter": "X",
+    "imgName": [
+      {
+        "brand_id": "brand-6",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd50000196a38ee3f43~tplv-resize:100:0.png",
+        "text": "雪佛兰"
+      },
+      {
+        "brand_id": "brand-11",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/6af469ddb92b4c24628c5884ab323f21~tplv-resize:100:0.png",
+        "text": "现代"
+      },
+      {
+        "brand_id": "brand-21",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd50000196b5468da99~tplv-resize:100:0.png",
+        "text": "雪铁龙"
+      },
+      {
+        "brand_id": "brand-251",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/9b130000bdcc33e169cb~tplv-resize:100:0.png",
+        "text": "星途"
+      },
+      {
+        "brand_id": "brand-195",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/39f50001bf96b1a2d2a7~tplv-resize:100:0.png",
+        "text": "小鹏汽车"
+      },
+      {
+        "brand_id": "brand-164",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/39f5000028bfd60e2a1b~tplv-resize:100:0.png",
+        "text": "新凯"
+      },
+      {
+        "brand_id": "brand-344",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/534a66385fc3134620edaacb7f58cee6~tplv-resize:100:0.png",
+        "text": "星驰"
+      },
+      {
+        "brand_id": "brand-234",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/474800009b46088ae188~tplv-resize:100:0.png",
+        "text": "新特汽车"
+      },
+      {
+        "brand_id": "brand-306",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/bef6000007dea706a690~tplv-resize:100:0.png",
+        "text": "谢尔比"
+      },
+      {
+        "brand_id": "brand-89",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/cb8274929f5038b2285599d5e91b09c5~tplv-resize:100:0.png",
+        "text": "西雅特"
+      },
+      {
+        "brand_id": "brand-245",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/65de000120428b239da6~tplv-resize:100:0.png",
+        "text": "西尔贝"
+      }
+    ]
+  },
+  {
+    "bigLetter": "Y",
+    "imgName": [
+      {
+        "brand_id": "brand-29",
+        "imgSrc": "//p1-dcd.byteimg.com/img/motor-img/7ce6f6647f35d936df4c803e3ebedb98~tplv-resize:100:0.png",
+        "text": "英菲尼迪"
+      },
+      {
+        "brand_id": "brand-67",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd50000196531e04027~tplv-resize:100:0.png",
+        "text": "一汽"
+      },
+      {
+        "brand_id": "brand-107",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd500001904e2c764b9~tplv-resize:100:0.png",
+        "text": "野马汽车"
+      },
+      {
+        "brand_id": "brand-90",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/1dd50000196cd62fa906~tplv-resize:100:0.png",
+        "text": "依维柯"
+      },
+      {
+        "brand_id": "brand-167",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd50000194b04820507~tplv-resize:100:0.png",
+        "text": "驭胜"
+      },
+      {
+        "brand_id": "brand-172",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/39f5000028c043d6e7d6~tplv-resize:100:0.png",
+        "text": "宇通客车"
+      },
+      {
+        "brand_id": "brand-173",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/2f1e0001065006487948~tplv-resize:100:0.png",
+        "text": "御捷"
+      },
+      {
+        "brand_id": "brand-188",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/bef0000011a8e0c1b3f0~tplv-resize:100:0.png",
+        "text": "云度"
+      },
+      {
+        "brand_id": "brand-194",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/2f1e00010af8a4ed29f1~tplv-resize:100:0.png",
+        "text": "裕路"
+      },
+      {
+        "brand_id": "brand-206",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/9b13000091c95832dda1~tplv-resize:100:0.png",
+        "text": "云雀汽车"
+      },
+      {
+        "brand_id": "brand-302",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/beef0000e9e0b59f9129~tplv-resize:100:0.png",
+        "text": "银隆新能源"
+      },
+      {
+        "brand_id": "brand-308",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/bef700002e2974c0bb5a~tplv-resize:100:0.png",
+        "text": "远程汽车"
+      },
+      {
+        "brand_id": "brand-332",
+        "imgSrc": "https://p9-dcd.byteimg.com/img/mosaic-legacy/bef8000043e9e95f3401~tplv-resize:100:0.png",
+        "text": "YAMAHA"
+      },
+      {
+        "brand_id": "brand-208",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/4748000057cd322df957~tplv-resize:100:0.png",
+        "text": "游侠"
+      },
+      {
+        "brand_id": "brand-307",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/bef8000025a130e476e0~tplv-resize:100:0.png",
+        "text": "英飒"
+      }
+    ]
+  },
+  {
+    "bigLetter": "Z",
+    "imgName": [
+      {
+        "brand_id": "brand-64",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/47480000ca465d4b3d16~tplv-resize:100:0.png",
+        "text": "众泰"
+      },
+      {
+        "brand_id": "brand-28",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/1dd5000019687c071c90~tplv-resize:100:0.png",
+        "text": "中华"
+      },
+      {
+        "brand_id": "brand-169",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd5000018e670e69289~tplv-resize:100:0.png",
+        "text": "中兴"
+      },
+      {
+        "brand_id": "brand-168",
+        "imgSrc": "https://p6-dcd.byteimg.com/img/mosaic-legacy/1dd500001941464bc3b3~tplv-resize:100:0.png",
+        "text": "知豆"
+      },
+      {
+        "brand_id": "brand-170",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/1dd50000193918328f5b~tplv-resize:100:0.png",
+        "text": "之诺"
+      },
+      {
+        "brand_id": "brand-215",
+        "imgSrc": "https://p3-dcd.byteimg.com/img/mosaic-legacy/4747000081c3b553cea7~tplv-resize:100:0.png",
+        "text": "正道汽车"
+      },
+      {
+        "brand_id": "brand-218",
+        "imgSrc": "https://p1-dcd.byteimg.com/img/mosaic-legacy/47480000819c7496b2fc~tplv-resize:100:0.png",
+        "text": "Zenvo"
+      }
+    ]
+  }
+]
